@@ -1,0 +1,21 @@
+***2017-05-22
+added field rules to wphrm_leavetypes table
+
+***2017-05-08
+update the leave types, added medical leave option
+added new db columns require_file_attachment & has_medical_claim to wphrm_leavetypes
+added new db column medical_claim_amount to wphrm_attendance
+
+***2017-03-22
+update the file and documents
+
+***2017-03-13
+My Profile to View Profile page menu
+
+***2017-03-09
+
+***2017-03-08
+add attendance summary widget to dashboard
+remove year to date from birthday notification
+remove `halfDayType`='' from update query as its removes the half day leave value @ line 4927
+calendar css

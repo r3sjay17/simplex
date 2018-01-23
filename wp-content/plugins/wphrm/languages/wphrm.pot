@@ -1,0 +1,2356 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP HRM\n"
+"POT-Creation-Date: 2017-02-08 19:41+0530\n"
+"PO-Revision-Date: 2016-07-29 13:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wphrm.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wphrm-add-notice.php:24
+msgid "Notice"
+msgstr ""
+
+#: wphrm-add-notice.php:27 wphrm-add-notice.php:57 wphrm-attendances.php:96
+#: wphrm-dashboard.php:72 wphrm-department.php:125 wphrm-designation.php:131
+#: wphrm-employee-absent.php:32 wphrm-employee-info.php:112
+#: wphrm-employee-list.php:18 wphrm-employee-view-info.php:69
+#: wphrm-financials-report.php:163 wphrm-holidays.php:148
+#: wphrm-leave-type.php:159 wphrm-leaves-application.php:250
+#: wphrm-mark-attendance.php:34 wphrm-notice.php:44 wphrm-notifications.php:41
+#: wphrm-salary-slip-details-week.php:83 wphrm-salary-slip-details.php:81
+#: wphrm-salary.php:119 wphrm-select-financials-month.php:141
+#: wphrm-select-financials-week.php:152 wphrm-settings.php:304
+#: wphrm-total-salary.php:50 wphrm-view-attendance.php:33
+msgid "Home"
+msgstr ""
+
+#: wphrm-add-notice.php:28 wphrm-add-notice.php:37 wphrm-dashboard.php:184
+#: wphrm-settings.php:512
+msgid "Notice Board"
+msgstr ""
+
+#: wphrm-add-notice.php:33 wphrm-add-notice.php:67 wphrm-designation.php:138
+#: wphrm-employee-absent.php:47 wphrm-employee-info.php:124
+#: wphrm-employee-view-info.php:75 wphrm-leave-type.php:169
+#: wphrm-mark-attendance.php:50 wphrm-salary-slip-details-week.php:141
+#: wphrm-salary-slip-details.php:135 wphrm-select-financials-month.php:49
+#: wphrm-select-financials-month.php:148 wphrm-select-financials-week.php:49
+#: wphrm-select-financials-week.php:161 wphrm-total-salary.php:58
+#: wphrm-view-attendance.php:52
+msgid "Back"
+msgstr ""
+
+#: wphrm-add-notice.php:53 wphrm-add-notice.php:59 wphrm-add-notice.php:71
+#: wphrm-add-notice.php:107
+msgid "Edit Notice"
+msgstr ""
+
+#: wphrm-add-notice.php:53 wphrm-add-notice.php:60 wphrm-add-notice.php:71
+#: wphrm-add-notice.php:109
+msgid "Add Notice"
+msgstr ""
+
+#: wphrm-add-notice.php:87 wphrm-add-notice.php:90
+msgid "Title"
+msgstr ""
+
+#: wphrm-add-notice.php:95 wphrm-notifications.php:59
+msgid "Description"
+msgstr ""
+
+#: wphrm-ajax-data.php:97 wphrm-ajax-data.php:190 wphrm-dashboard.php:309
+#: wphrm-employee-absent.php:72 wphrm-financials-report.php:54
+#: wphrm-financials-report.php:118 wphrm-financials-report.php:215
+#: wphrm-holidays.php:213 wphrm-leaves-application.php:275
+#: wphrm-leaves-application.php:409 wphrm-notifications.php:60
+#: wphrm-reports.php:1294 wphrm-reports.php:1336 wphrm-reports.php:1428
+msgid "Date"
+msgstr ""
+
+#: wphrm-ajax-data.php:98 wphrm-ajax-data.php:191 wphrm-holidays.php:214
+msgid "Occasion"
+msgstr ""
+
+#: wphrm-ajax-data.php:99 wphrm-ajax-data.php:192 wphrm-holidays.php:215
+msgid "Day"
+msgstr ""
+
+#: wphrm-ajax-data.php:101 wphrm-ajax-data.php:194 wphrm-attendances.php:131
+#: wphrm-department.php:146 wphrm-designation.php:152
+#: wphrm-financials-report.php:217 wphrm-holidays.php:217
+#: wphrm-leave-type.php:181 wphrm-leaves-application.php:281
+#: wphrm-leaves-application.php:415 wphrm-notice.php:66 wphrm-salary.php:152
+msgid "Actions"
+msgstr ""
+
+#: wphrm-ajax-data.php:132 wphrm-holidays.php:254
+msgid "No holidays found."
+msgstr ""
+
+#: wphrm-ajax-data.php:225
+msgid "No holiday here."
+msgstr ""
+
+#: wphrm-ajax-data.php:272 wphrm-ajax-data.php:618
+#: wphrm-select-financials-month.php:264 wphrm-select-financials-week.php:282
+msgid "Months"
+msgstr ""
+
+#: wphrm-ajax-data.php:273 wphrm-ajax-data.php:619 wphrm-employee-list.php:56
+#: wphrm-notifications.php:62 wphrm-select-financials-month.php:265
+#: wphrm-select-financials-week.php:283 wphrm-settings.php:1465
+msgid "Action"
+msgstr ""
+
+#: wphrm-ajax-data.php:305 wphrm-employee-info.php:126
+#: wphrm-employee-list.php:113 wphrm-employee-list.php:171
+#: wphrm-employee-view-info.php:77 wphrm-notice.php:87
+#: wphrm-select-financials-month.php:283 wphrm-settings.php:1416
+#: wphrm-settings.php:1494
+msgid "Edit"
+msgstr ""
+
+#: wphrm-ajax-data.php:309 wphrm-select-financials-month.php:287
+msgid "Download"
+msgstr ""
+
+#: wphrm-ajax-data.php:327 wphrm-ajax-data.php:331 wphrm-ajax-data.php:374
+#: wphrm-ajax-data.php:379 wphrm-ajax-data.php:427 wphrm-ajax-data.php:431
+#: wphrm-ajax-data.php:521 wphrm-ajax-data.php:525
+#: wphrm-select-financials-month.php:296 wphrm-select-financials-month.php:300
+#: wphrm-select-financials-month.php:332 wphrm-select-financials-month.php:336
+#: wphrm-select-financials-month.php:378 wphrm-select-financials-month.php:382
+#: wphrm-select-financials-month.php:412 wphrm-select-financials-month.php:416
+msgid "Create"
+msgstr ""
+
+#: wphrm-ajax-data.php:344 wphrm-ajax-data.php:348 wphrm-ajax-data.php:355
+#: wphrm-ajax-data.php:392 wphrm-ajax-data.php:398 wphrm-ajax-data.php:408
+#: wphrm-ajax-data.php:444 wphrm-ajax-data.php:454 wphrm-ajax-data.php:463
+#: wphrm-ajax-data.php:474 wphrm-ajax-data.php:484 wphrm-ajax-data.php:540
+#: wphrm-ajax-data.php:546 wphrm-ajax-data.php:555
+#: wphrm-select-financials-month.php:312 wphrm-select-financials-month.php:316
+#: wphrm-select-financials-month.php:321 wphrm-select-financials-month.php:347
+#: wphrm-select-financials-month.php:351 wphrm-select-financials-month.php:356
+#: wphrm-select-financials-month.php:392 wphrm-select-financials-month.php:396
+#: wphrm-select-financials-month.php:401 wphrm-select-financials-month.php:426
+#: wphrm-select-financials-month.php:430 wphrm-select-financials-month.php:435
+msgid "Request"
+msgstr ""
+
+#: wphrm-attendances.php:19
+msgid "Mark Attendance in Bulk"
+msgstr ""
+
+#: wphrm-attendances.php:33 wphrm-salary.php:61
+msgid "Employee Name"
+msgstr ""
+
+#: wphrm-attendances.php:58 wphrm-dashboard.php:407 wphrm-dashboard.php:513
+#: wphrm-financials-report.php:194 wphrm-leaves-application.php:67
+#: wphrm-leaves-application.php:160 wphrm-salary.php:88
+#: wphrm-select-financials-month.php:221 wphrm-select-financials-month.php:222
+#: wphrm-total-salary.php:80
+msgid "From Date"
+msgstr ""
+
+#: wphrm-attendances.php:66 wphrm-dashboard.php:409 wphrm-dashboard.php:515
+#: wphrm-financials-report.php:197 wphrm-leaves-application.php:76
+#: wphrm-leaves-application.php:171 wphrm-salary.php:96
+#: wphrm-select-financials-month.php:225 wphrm-select-financials-month.php:226
+#: wphrm-total-salary.php:83
+msgid "To Date"
+msgstr ""
+
+#: wphrm-attendances.php:73
+msgid "Attendance Mark"
+msgstr ""
+
+#: wphrm-attendances.php:76
+msgid "Present"
+msgstr ""
+
+#: wphrm-attendances.php:77
+msgid "Absent"
+msgstr ""
+
+#: wphrm-attendances.php:84 wphrm-mark-attendance.php:63
+#: wphrm-mark-attendance.php:224 wphrm-settings.php:89 wphrm-settings.php:172
+msgid "Submit"
+msgstr ""
+
+#: wphrm-attendances.php:85 wphrm-dashboard.php:480 wphrm-dashboard.php:586
+#: wphrm-department.php:48 wphrm-department.php:86 wphrm-department.php:113
+#: wphrm-designation.php:55 wphrm-designation.php:93 wphrm-designation.php:120
+#: wphrm-financials-report.php:64 wphrm-financials-report.php:128
+#: wphrm-financials-report.php:150 wphrm-financials-report.php:295
+#: wphrm-holidays.php:56 wphrm-holidays.php:132 wphrm-holidays.php:289
+#: wphrm-leave-type.php:63 wphrm-leave-type.php:149
+#: wphrm-leaves-application.php:114 wphrm-leaves-application.php:217
+#: wphrm-leaves-application.php:240 wphrm-notice.php:31
+#: wphrm-notifications.php:28 wphrm-salary-slip-details-week.php:132
+#: wphrm-salary-slip-details.php:126 wphrm-salary.php:106
+#: wphrm-select-financials-month.php:124 wphrm-select-financials-month.php:486
+#: wphrm-select-financials-month.php:509 wphrm-select-financials-week.php:135
+#: wphrm-select-financials-week.php:722 wphrm-select-financials-week.php:745
+#: wphrm-settings.php:90 wphrm-settings.php:173 wphrm-settings.php:216
+#: wphrm-settings.php:265 wphrm-settings.php:294 wphrm-settings.php:1373
+#: wphrm-total-salary.php:217
+msgid "Cancel"
+msgstr ""
+
+#: wphrm-attendances.php:93 wphrm-attendances.php:97 wphrm.php:168
+#: wphrm.php:171 wphrm.php:1129
+msgid "Attendance Management"
+msgstr ""
+
+#: wphrm-attendances.php:106
+msgid "Mark Attendance "
+msgstr ""
+
+#: wphrm-attendances.php:107
+msgid "Edit Attendance "
+msgstr ""
+
+#: wphrm-attendances.php:108
+msgid "Mark Bulk Attendance"
+msgstr ""
+
+#: wphrm-attendances.php:113
+msgid "List of Attendance"
+msgstr ""
+
+#: wphrm-attendances.php:115
+msgid "Attendance Details"
+msgstr ""
+
+#: wphrm-attendances.php:125 wphrm-employee-absent.php:69
+#: wphrm-mark-attendance.php:86
+msgid "EmployeeID"
+msgstr ""
+
+#: wphrm-attendances.php:126 wphrm-employee-absent.php:70
+msgid "Image"
+msgstr ""
+
+#: wphrm-attendances.php:127 wphrm-dashboard.php:308
+#: wphrm-employee-absent.php:71 wphrm-employee-list.php:51
+#: wphrm-leaves-application.php:145 wphrm-leaves-application.php:274
+#: wphrm-leaves-application.php:408 wphrm-mark-attendance.php:87
+#: wphrm-reports.php:280 wphrm-reports.php:884 wphrm-salary.php:146
+#: wphrm-select-financials-month.php:180 wphrm-select-financials-week.php:195
+msgid "Name"
+msgstr ""
+
+#: wphrm-attendances.php:128
+msgid "Last Absent"
+msgstr ""
+
+#: wphrm-attendances.php:129
+msgid "Leaves"
+msgstr ""
+
+#: wphrm-attendances.php:130 wphrm-employee-list.php:55
+#: wphrm-leaves-application.php:280 wphrm-leaves-application.php:414
+#: wphrm-mark-attendance.php:88 wphrm-notifications.php:61 wphrm-salary.php:150
+msgid "Status"
+msgstr ""
+
+#: wphrm-attendances.php:244 wphrm-employee-list.php:103
+#: wphrm-employee-list.php:161 wphrm-salary.php:204
+msgid "Active"
+msgstr ""
+
+#: wphrm-attendances.php:246 wphrm-employee-info.php:397
+#: wphrm-employee-list.php:105 wphrm-employee-list.php:163 wphrm-salary.php:206
+msgid "Inactive"
+msgstr ""
+
+#: wphrm-attendances.php:251 wphrm-employee-info.php:128
+#: wphrm-employee-list.php:110 wphrm-employee-list.php:168
+#: wphrm-employee-view-info.php:79 wphrm-employee-view-info.php:249
+#: wphrm-employee-view-info.php:273 wphrm-employee-view-info.php:297
+#: wphrm-employee-view-info.php:320 wphrm-employee-view-info.php:342
+#: wphrm-employee-view-info.php:376 wphrm-notice.php:84 wphrm-settings.php:1494
+msgid "View"
+msgstr ""
+
+#: wphrm-attendances.php:264 wphrm-mark-attendance.php:215
+msgid "No attendance data found in database."
+msgstr ""
+
+#: wphrm-dashboard.php:56 wphrm-dashboard.php:73 wphrm.php:138 wphrm.php:141
+msgid "Dashboard"
+msgstr ""
+
+#: wphrm-dashboard.php:65
+msgid "Switch to "
+msgstr ""
+
+#: wphrm-dashboard.php:65
+msgid " Profile"
+msgstr ""
+
+#: wphrm-dashboard.php:68
+msgid "Switch to User Profile"
+msgstr ""
+
+#: wphrm-dashboard.php:89 wphrm-dashboard.php:99
+msgid "Today's Attendance Record"
+msgstr ""
+
+#: wphrm-dashboard.php:111 wphrm-dashboard.php:121 wphrm-employee-list.php:15
+#: wphrm-employee-list.php:19 wphrm.php:152 wphrm.php:1120
+msgid "Employees"
+msgstr ""
+
+#: wphrm-dashboard.php:134 wphrm-dashboard.php:150
+#: wphrm-select-financials-month.php:87 wphrm-select-financials-week.php:87
+#: wphrm-settings.php:517 wphrm-settings.php:526
+msgid "No"
+msgstr ""
+
+#: wphrm-dashboard.php:139 wphrm-dashboard.php:155
+msgid "Leave Applications"
+msgstr ""
+
+#: wphrm-dashboard.php:168
+msgid "Attendance Record"
+msgstr ""
+
+#: wphrm-dashboard.php:208
+msgid "Read More"
+msgstr ""
+
+#: wphrm-dashboard.php:219
+msgid "More Notices"
+msgstr ""
+
+#: wphrm-dashboard.php:225
+msgid "No Notices Found."
+msgstr ""
+
+#: wphrm-dashboard.php:241
+msgid "Birthdays"
+msgstr ""
+
+#: wphrm-dashboard.php:248
+msgid "Today's Birthdays"
+msgstr ""
+
+#: wphrm-dashboard.php:249
+msgid "Date  : "
+msgstr ""
+
+#: wphrm-dashboard.php:298
+msgid "No Birthdays Found."
+msgstr ""
+
+#: wphrm-dashboard.php:303
+msgid "Upcoming Birthdays"
+msgstr ""
+
+#: wphrm-dashboard.php:307
+msgid "Pic"
+msgstr ""
+
+#: wphrm-dashboard.php:364
+msgid "No upcoming birthdays found in next 30 days."
+msgstr ""
+
+#: wphrm-dashboard.php:386 wphrm-dashboard.php:492
+msgid "Profit & Loss Report"
+msgstr ""
+
+#: wphrm-dashboard.php:400 wphrm-dashboard.php:506 wphrm-reports.php:1389
+msgid "Profit"
+msgstr ""
+
+#: wphrm-dashboard.php:402 wphrm-dashboard.php:508 wphrm-reports.php:1391
+msgid "Loss"
+msgstr ""
+
+#: wphrm-dashboard.php:415 wphrm-dashboard.php:521
+#: wphrm-select-financials-month.php:231
+msgid "Download Excel"
+msgstr ""
+
+#: wphrm-dashboard.php:475 wphrm-dashboard.php:581
+#: wphrm-financials-report.php:290 wphrm-select-financials-month.php:504
+#: wphrm-select-financials-week.php:740
+msgid "Financials"
+msgstr ""
+
+#: wphrm-dashboard.php:477 wphrm-dashboard.php:583
+#: wphrm-financials-report.php:292 wphrm-select-financials-month.php:506
+#: wphrm-select-financials-week.php:742 wphrm-total-salary.php:214
+msgid "Please select date range."
+msgstr ""
+
+#: wphrm-department.php:19 wphrm-department.php:47
+msgid "Add Department"
+msgstr ""
+
+#: wphrm-department.php:34 wphrm-department.php:79 wphrm-department.php:144
+#: wphrm-designation.php:150 wphrm.php:98
+msgid "Department Name"
+msgstr ""
+
+#: wphrm-department.php:42 wphrm-designation.php:49 wphrm-holidays.php:50
+#: wphrm-settings.php:739 wphrm-settings.php:787 wphrm-settings.php:869
+#: wphrm-settings.php:922 wphrm-settings.php:1175 wphrm-settings.php:1227
+msgid "Add More"
+msgstr ""
+
+#: wphrm-department.php:64
+msgid "Rename Department"
+msgstr ""
+
+#: wphrm-department.php:85 wphrm-department.php:178
+msgid "Rename"
+msgstr ""
+
+#: wphrm-department.php:85 wphrm-employee-info.php:306
+#: wphrm-employee-list.php:52 wphrm-reports.php:296 wphrm-reports.php:900
+#: wphrm-salary.php:147 wphrm-select-financials-month.php:200
+#: wphrm-select-financials-week.php:223
+msgid "Department"
+msgstr ""
+
+#: wphrm-department.php:108 wphrm-designation.php:115
+#: wphrm-financials-report.php:145 wphrm-holidays.php:284
+#: wphrm-leave-type.php:144 wphrm-leaves-application.php:234
+#: wphrm-notice.php:26 wphrm-notifications.php:22
+#: wphrm-salary-slip-details-week.php:127 wphrm-salary-slip-details.php:121
+#: wphrm-select-financials-month.php:78 wphrm-select-financials-month.php:479
+#: wphrm-select-financials-week.php:78 wphrm-select-financials-week.php:715
+#: wphrm-settings.php:289 wphrm-settings.php:1368
+msgid "Confirmation"
+msgstr ""
+
+#: wphrm-department.php:110 wphrm-designation.php:117
+#: wphrm-financials-report.php:147 wphrm-holidays.php:286
+#: wphrm-leave-type.php:146 wphrm-leaves-application.php:236
+#: wphrm-notice.php:28 wphrm-notifications.php:24
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: wphrm-department.php:112 wphrm-department.php:181 wphrm-designation.php:119
+#: wphrm-designation.php:170 wphrm-financials-report.php:149
+#: wphrm-financials-report.php:262 wphrm-holidays.php:288
+#: wphrm-leave-type.php:148 wphrm-leave-type.php:200
+#: wphrm-leaves-application.php:239 wphrm-leaves-application.php:389
+#: wphrm-leaves-application.php:503 wphrm-notice.php:30 wphrm-notice.php:90
+#: wphrm-notifications.php:27 wphrm-notifications.php:126
+#: wphrm-salary-slip-details-week.php:131
+#: wphrm-salary-slip-details-week.php:142 wphrm-salary-slip-details.php:125
+#: wphrm-salary-slip-details.php:136 wphrm-select-financials-month.php:487
+#: wphrm-select-financials-week.php:723 wphrm-settings.php:293
+msgid "Delete"
+msgstr ""
+
+#: wphrm-department.php:122 wphrm-department.php:126 wphrm.php:147
+#: wphrm.php:1123
+msgid "Departments"
+msgstr ""
+
+#: wphrm-department.php:132
+msgid "Add New Department"
+msgstr ""
+
+#: wphrm-department.php:136
+msgid "List of Departments"
+msgstr ""
+
+#: wphrm-department.php:143 wphrm-designation.php:149
+#: wphrm-employee-absent.php:68 wphrm-employee-list.php:50
+#: wphrm-financials-report.php:212 wphrm-holidays.php:212
+#: wphrm-leave-type.php:177 wphrm-leaves-application.php:273
+#: wphrm-mark-attendance.php:85 wphrm-notice.php:64 wphrm-notifications.php:57
+#: wphrm-reports.php:1509 wphrm-reports.php:1727 wphrm-reports.php:1802
+#: wphrm-reports.php:1972 wphrm-salary.php:145 wphrm-settings.php:1462
+#: wphrm-total-salary.php:105
+msgid "S.No"
+msgstr ""
+
+#: wphrm-department.php:145 wphrm-department.php:175 wphrm-designation.php:128
+#: wphrm-designation.php:132 wphrm-designation.php:142
+msgid "Designations"
+msgstr ""
+
+#: wphrm-department.php:188
+msgid "No departments found in database."
+msgstr ""
+
+#: wphrm-designation.php:25 wphrm-designation.php:54
+msgid "Add Designation"
+msgstr ""
+
+#: wphrm-designation.php:41 wphrm-designation.php:86 wphrm-designation.php:151
+#: wphrm.php:98
+msgid "Designation Name"
+msgstr ""
+
+#: wphrm-designation.php:71 wphrm-designation.php:92
+msgid "Edit Designation"
+msgstr ""
+
+#: wphrm-designation.php:137
+msgid "Add New Designation"
+msgstr ""
+
+#: wphrm-designation.php:142 wphrm-total-salary.php:63
+msgid "List of "
+msgstr ""
+
+#: wphrm-designation.php:169 wphrm-financials-report.php:260
+#: wphrm-leave-type.php:198 wphrm-leaves-application.php:385
+#: wphrm-leaves-application.php:498
+msgid "View/Edit"
+msgstr ""
+
+#: wphrm-designation.php:176
+msgid "No designation found in database."
+msgstr ""
+
+#: wphrm-employee-absent.php:23 wphrm-employee-absent.php:35
+msgid "Employees Absence"
+msgstr ""
+
+#: wphrm-employee-absent.php:25 wphrm-employee-absent.php:37
+msgid "Employees Present"
+msgstr ""
+
+#: wphrm-employee-absent.php:27 wphrm-employee-absent.php:39
+msgid "Employees Half Day"
+msgstr ""
+
+#: wphrm-employee-absent.php:54
+msgid " List of Employees Absence"
+msgstr ""
+
+#: wphrm-employee-absent.php:56
+msgid "List of Employees Present"
+msgstr ""
+
+#: wphrm-employee-absent.php:58
+msgid "List of Employees Half Day "
+msgstr ""
+
+#: wphrm-employee-info.php:106 wphrm-employee-info.php:113
+#: wphrm-employee-view-info.php:70
+msgid "Employee"
+msgstr ""
+
+#: wphrm-employee-info.php:115
+msgid "Edit Employee"
+msgstr ""
+
+#: wphrm-employee-info.php:118
+msgid "Add Employee"
+msgstr ""
+
+#: wphrm-employee-info.php:138
+msgid "Personal Details"
+msgstr ""
+
+#: wphrm-employee-info.php:143 wphrm-employee-info.php:528
+#: wphrm-employee-info.php:994 wphrm-employee-info.php:1195
+#: wphrm-employee-info.php:1410 wphrm-settings.php:330 wphrm-settings.php:455
+#: wphrm-settings.php:498 wphrm-settings.php:540 wphrm-settings.php:580
+#: wphrm-settings.php:620 wphrm-settings.php:701 wphrm-settings.php:749
+#: wphrm-settings.php:805 wphrm-settings.php:883 wphrm-settings.php:942
+#: wphrm-settings.php:985 wphrm-settings.php:1113 wphrm-settings.php:1242
+#: wphrm-settings.php:1399
+msgid "Save"
+msgstr ""
+
+#: wphrm-employee-info.php:161 wphrm-employee-view-info.php:101
+msgid "Photo"
+msgstr ""
+
+#: wphrm-employee-info.php:190
+msgid "Select image"
+msgstr ""
+
+#: wphrm-employee-info.php:192 wphrm-employee-info.php:567
+#: wphrm-employee-info.php:593 wphrm-employee-info.php:622
+#: wphrm-employee-info.php:651 wphrm-employee-info.php:679
+#: wphrm-employee-info.php:721 wphrm-employee-info.php:757
+#: wphrm-employee-info.php:793 wphrm-settings.php:361 wphrm-settings.php:1349
+msgid "Change"
+msgstr ""
+
+#: wphrm-employee-info.php:196 wphrm-employee-info.php:571
+#: wphrm-employee-info.php:597 wphrm-employee-info.php:626
+#: wphrm-employee-info.php:655 wphrm-employee-info.php:683
+#: wphrm-employee-info.php:725 wphrm-employee-info.php:761
+#: wphrm-employee-info.php:797 wphrm-settings.php:364 wphrm-settings.php:1353
+msgid "Remove"
+msgstr ""
+
+#: wphrm-employee-info.php:205 wphrm-employee-info.php:535
+#: wphrm-settings.php:372 wphrm-settings.php:1255
+msgid "NOTE"
+msgstr ""
+
+#: wphrm-employee-info.php:205 wphrm-settings.php:372
+msgid ""
+"Only 'jpeg', 'jpg', 'png' filetypes are allowed and size should be "
+"117px*30px."
+msgstr ""
+
+#: wphrm-employee-info.php:210 wphrm-employee-info.php:404
+#: wphrm-employee-view-info.php:125
+msgid "First Name"
+msgstr ""
+
+#: wphrm-employee-info.php:221 wphrm-employee-info.php:414
+#: wphrm-employee-view-info.php:135
+msgid "Last Name"
+msgstr ""
+
+#: wphrm-employee-info.php:230 wphrm-employee-info.php:423
+#: wphrm-employee-view-info.php:144
+msgid "Father Name"
+msgstr ""
+
+#: wphrm-employee-info.php:239 wphrm-employee-info.php:432
+#: wphrm-employee-list.php:53 wphrm-employee-view-info.php:153
+#: wphrm-reports.php:181 wphrm-reports.php:208 wphrm-reports.php:229
+#: wphrm-reports.php:252 wphrm-reports.php:784 wphrm-reports.php:811
+#: wphrm-reports.php:832 wphrm-reports.php:855 wphrm-salary.php:148
+#: wphrm-settings.php:384
+msgid "Email"
+msgstr ""
+
+#: wphrm-employee-info.php:252 wphrm-select-financials-month.php:185
+#: wphrm-select-financials-week.php:202
+msgid "Employee Id"
+msgstr ""
+
+#: wphrm-employee-info.php:263
+msgid "Role"
+msgstr ""
+
+#: wphrm-employee-info.php:267 wphrm-settings.php:1001 wphrm-settings.php:1030
+msgid "Select"
+msgstr ""
+
+#: wphrm-employee-info.php:285
+msgid "User ID"
+msgstr ""
+
+#: wphrm-employee-info.php:298
+msgid "Password"
+msgstr ""
+
+#: wphrm-employee-info.php:309
+msgid "Select Department"
+msgstr ""
+
+#: wphrm-employee-info.php:345 wphrm-reports.php:289 wphrm-reports.php:893
+#: wphrm-select-financials-month.php:205 wphrm-select-financials-week.php:230
+msgid "Designation"
+msgstr ""
+
+#: wphrm-employee-info.php:349
+msgid "Select Designation"
+msgstr ""
+
+#: wphrm-employee-info.php:354
+msgid "Joining Date"
+msgstr ""
+
+#: wphrm-employee-info.php:368
+msgid "Gender"
+msgstr ""
+
+#: wphrm-employee-info.php:375
+msgid "Male"
+msgstr ""
+
+#: wphrm-employee-info.php:379
+msgid "Female"
+msgstr ""
+
+#: wphrm-employee-info.php:385
+msgid "Employee Status"
+msgstr ""
+
+#: wphrm-employee-info.php:444 wphrm-employee-info.php:459
+#: wphrm-employee-view-info.php:172
+msgid "Date of Birth"
+msgstr ""
+
+#: wphrm-employee-info.php:474 wphrm-employee-view-info.php:163
+msgid "Phone Number"
+msgstr ""
+
+#: wphrm-employee-info.php:483 wphrm-employee-view-info.php:186
+msgid "Local Address"
+msgstr ""
+
+#: wphrm-employee-info.php:494 wphrm-employee-info.php:505
+#: wphrm-employee-view-info.php:195
+msgid "Permanent Address"
+msgstr ""
+
+#: wphrm-employee-info.php:523 wphrm-employee-info.php:823
+#: wphrm-employee-view-info.php:211 wphrm-settings.php:659
+msgid "Documents"
+msgstr ""
+
+#: wphrm-employee-info.php:536
+msgid "Only 'jpeg', 'jpg', 'png', 'txt', 'pdf', 'doc' filetypes are allowed."
+msgstr ""
+
+#: wphrm-employee-info.php:565 wphrm-employee-info.php:592
+#: wphrm-employee-info.php:620 wphrm-employee-info.php:649
+#: wphrm-employee-info.php:677 wphrm-employee-info.php:719
+#: wphrm-employee-info.php:755 wphrm-employee-info.php:791
+#: wphrm-settings.php:1347
+msgid "Select file"
+msgstr ""
+
+#: wphrm-employee-info.php:989 wphrm-employee-info.php:1110
+#: wphrm-employee-view-info.php:394 wphrm-settings.php:634
+msgid "Bank Account Details"
+msgstr ""
+
+#: wphrm-employee-info.php:1013 wphrm-employee-info.php:1128
+#: wphrm-employee-view-info.php:412
+msgid "Account Holder Name"
+msgstr ""
+
+#: wphrm-employee-info.php:1022 wphrm-employee-info.php:1137
+#: wphrm-employee-view-info.php:420 wphrm-salary-slip-details-week.php:212
+#: wphrm-salary-slip-details.php:238
+msgid "Account Number"
+msgstr ""
+
+#: wphrm-employee-info.php:1031
+msgid "Confirm Account Number"
+msgstr ""
+
+#: wphrm-employee-info.php:1146
+msgid "Bank Name"
+msgstr ""
+
+#: wphrm-employee-info.php:1155
+msgid "Branch"
+msgstr ""
+
+#: wphrm-employee-info.php:1164
+msgid "IFSC Code"
+msgstr ""
+
+#: wphrm-employee-info.php:1173
+msgid "PAN Number"
+msgstr ""
+
+#: wphrm-employee-info.php:1190 wphrm-employee-view-info.php:481
+#: wphrm-settings.php:672
+msgid "Other Details"
+msgstr ""
+
+#: wphrm-employee-info.php:1329
+msgid "Vehicle"
+msgstr ""
+
+#: wphrm-employee-info.php:1331
+msgid "Do you come by vehicle"
+msgstr ""
+
+#: wphrm-employee-info.php:1339 wphrm-employee-view-info.php:615
+msgid "Vehicle Type"
+msgstr ""
+
+#: wphrm-employee-info.php:1346
+msgid "Bike"
+msgstr ""
+
+#: wphrm-employee-info.php:1351
+msgid "Car"
+msgstr ""
+
+#: wphrm-employee-info.php:1357 wphrm-employee-view-info.php:623
+msgid "Make-Model"
+msgstr ""
+
+#: wphrm-employee-info.php:1367 wphrm-employee-view-info.php:631
+msgid "Registration No."
+msgstr ""
+
+#: wphrm-employee-info.php:1378 wphrm-employee-view-info.php:641
+msgid "T-Shirt Size"
+msgstr ""
+
+#: wphrm-employee-info.php:1382
+msgid "Select your size"
+msgstr ""
+
+#: wphrm-employee-info.php:1405 wphrm-employee-info.php:1507
+#: wphrm-employee-view-info.php:657 wphrm-salary.php:238 wphrm-salary.php:242
+#: wphrm-settings.php:646
+msgid "Salary Details"
+msgstr ""
+
+#: wphrm-employee-info.php:1429 wphrm-employee-info.php:1525
+msgid "Current Salary"
+msgstr ""
+
+#: wphrm-employee-list.php:29
+msgid "Add New Employee"
+msgstr ""
+
+#: wphrm-employee-list.php:31
+msgid "Show Inactive Users"
+msgstr ""
+
+#: wphrm-employee-list.php:33
+msgid "Hide Inactive Users"
+msgstr ""
+
+#: wphrm-employee-list.php:36 wphrm.php:155
+msgid "My Profile"
+msgstr ""
+
+#: wphrm-employee-list.php:43 wphrm-salary.php:131
+msgid "List of Employees"
+msgstr ""
+
+#: wphrm-employee-list.php:54
+msgid "Phone No."
+msgstr ""
+
+#: wphrm-employee-list.php:180
+msgid "No employees found in database."
+msgstr ""
+
+#: wphrm-employee-view-info.php:63
+msgid "View Employee Informations"
+msgstr ""
+
+#: wphrm-employee-view-info.php:85
+msgid "Personal Details "
+msgstr ""
+
+#: wphrm-financials-report.php:18 wphrm-financials-report.php:175
+msgid "Add Transaction"
+msgstr ""
+
+#: wphrm-financials-report.php:32 wphrm-financials-report.php:96
+#: wphrm-financials-report.php:213
+msgid "Item"
+msgstr ""
+
+#: wphrm-financials-report.php:38 wphrm-financials-report.php:102
+#: wphrm-financials-report.php:214 wphrm-reports.php:397 wphrm-reports.php:462
+#: wphrm-reports.php:1001 wphrm-reports.php:1066 wphrm-reports.php:1292
+#: wphrm-reports.php:1333 wphrm-reports.php:1427
+#: wphrm-salary-slip-details-week.php:234
+#: wphrm-salary-slip-details-week.php:381 wphrm-salary-slip-details.php:260
+#: wphrm-salary-slip-details.php:415
+msgid "Amount"
+msgstr ""
+
+#: wphrm-financials-report.php:44 wphrm-financials-report.php:108
+#: wphrm-financials-report.php:199 wphrm-reports.php:1293
+msgid "Type"
+msgstr ""
+
+#: wphrm-financials-report.php:47
+msgid "Select Type"
+msgstr ""
+
+#: wphrm-financials-report.php:48 wphrm-financials-report.php:112
+#: wphrm-financials-report.php:202 wphrm-financials-report.php:239
+#: wphrm-reports.php:1302 wphrm-reports.php:1334 wphrm-reports.php:1454
+msgid "Cash In"
+msgstr ""
+
+#: wphrm-financials-report.php:49 wphrm-financials-report.php:113
+#: wphrm-financials-report.php:203 wphrm-financials-report.php:241
+#: wphrm-reports.php:1304 wphrm-reports.php:1335 wphrm-reports.php:1456
+msgid "Cash Out"
+msgstr ""
+
+#: wphrm-financials-report.php:63 wphrm-leave-type.php:62
+#: wphrm-settings.php:1415
+msgid "Add"
+msgstr ""
+
+#: wphrm-financials-report.php:81
+msgid " Edit Transaction"
+msgstr ""
+
+#: wphrm-financials-report.php:111
+msgid "Select Type "
+msgstr ""
+
+#: wphrm-financials-report.php:127 wphrm-leave-type.php:120
+#: wphrm-leaves-application.php:216
+msgid "Update"
+msgstr ""
+
+#: wphrm-financials-report.php:157 wphrm-financials-report.php:167
+#: wphrm.php:210 wphrm.php:1138
+msgid "Finance Management"
+msgstr ""
+
+#: wphrm-financials-report.php:178
+msgid "List of Transactions"
+msgstr ""
+
+#: wphrm-financials-report.php:182 wphrm-total-salary.php:69
+msgid "PDF"
+msgstr ""
+
+#: wphrm-financials-report.php:185 wphrm-total-salary.php:72
+msgid "Excel"
+msgstr ""
+
+#: wphrm-financials-report.php:191
+msgid "Please Select Date Range."
+msgstr ""
+
+#: wphrm-financials-report.php:201
+msgid "Both"
+msgstr ""
+
+#: wphrm-financials-report.php:216 wphrm-reports.php:1429
+msgid "Financial Type"
+msgstr ""
+
+#: wphrm-financials-report.php:268
+msgid "No financial data found in the database."
+msgstr ""
+
+#: wphrm-holidays.php:25 wphrm-holidays.php:142 wphrm-holidays.php:152
+#: wphrm.php:160 wphrm.php:163 wphrm.php:1126
+msgid "Holidays"
+msgstr ""
+
+#: wphrm-holidays.php:43 wphrm.php:98
+msgid "*Must enter the Occasion"
+msgstr ""
+
+#: wphrm-holidays.php:55 wphrm-holidays.php:159
+msgid "Add Holidays"
+msgstr ""
+
+#: wphrm-holidays.php:69 wphrm-holidays.php:160
+msgid "Add Weekends"
+msgstr ""
+
+#: wphrm-holidays.php:83 wphrm-reports.php:1728
+#: wphrm-select-financials-month.php:100 wphrm-select-financials-week.php:102
+msgid "Year"
+msgstr ""
+
+#: wphrm-holidays.php:86 wphrm-select-financials-month.php:103
+#: wphrm-select-financials-week.php:105
+msgid "Select Year"
+msgstr ""
+
+#: wphrm-holidays.php:102
+msgid "Weekend"
+msgstr ""
+
+#: wphrm-holidays.php:105
+msgid "Select Weekend"
+msgstr ""
+
+#: wphrm-holidays.php:106
+msgid "Monday"
+msgstr ""
+
+#: wphrm-holidays.php:107
+msgid "Tuesday"
+msgstr ""
+
+#: wphrm-holidays.php:108
+msgid "Wednesday"
+msgstr ""
+
+#: wphrm-holidays.php:109
+msgid "Thursday"
+msgstr ""
+
+#: wphrm-holidays.php:110
+msgid "Friday"
+msgstr ""
+
+#: wphrm-holidays.php:111
+msgid "Saturday"
+msgstr ""
+
+#: wphrm-holidays.php:112
+msgid "Sunday"
+msgstr ""
+
+#: wphrm-holidays.php:119
+msgid "Choose Week"
+msgstr ""
+
+#: wphrm-holidays.php:121
+msgid "First Week"
+msgstr ""
+
+#: wphrm-holidays.php:122
+msgid "Second Week"
+msgstr ""
+
+#: wphrm-holidays.php:123
+msgid "Third Week"
+msgstr ""
+
+#: wphrm-holidays.php:124
+msgid "Fourth Week"
+msgstr ""
+
+#: wphrm-holidays.php:125
+msgid "Fifth Week"
+msgstr ""
+
+#: wphrm-holidays.php:131
+msgid "Add weekends"
+msgstr ""
+
+#: wphrm-holidays.php:165
+msgid "List of Holidays"
+msgstr ""
+
+#: wphrm-leave-type.php:23
+msgid "Add Leave Type"
+msgstr ""
+
+#: wphrm-leave-type.php:37 wphrm-leave-type.php:39 wphrm-leave-type.php:95
+#: wphrm-leave-type.php:178 wphrm-leaves-application.php:45
+#: wphrm-leaves-application.php:151 wphrm-leaves-application.php:276
+#: wphrm-leaves-application.php:410
+msgid "Leave Type"
+msgstr ""
+
+#: wphrm-leave-type.php:43 wphrm-leave-type.php:101 wphrm-leave-type.php:179
+msgid "Time Period"
+msgstr ""
+
+#: wphrm-leave-type.php:46
+msgid "Select Time Period"
+msgstr ""
+
+#: wphrm-leave-type.php:47 wphrm-leave-type.php:105
+msgid "Monthly"
+msgstr ""
+
+#: wphrm-leave-type.php:48 wphrm-leave-type.php:106
+msgid "Quarterly"
+msgstr ""
+
+#: wphrm-leave-type.php:49 wphrm-leave-type.php:107
+msgid "Yearly"
+msgstr ""
+
+#: wphrm-leave-type.php:54 wphrm-leave-type.php:112
+msgid "No of Leave"
+msgstr ""
+
+#: wphrm-leave-type.php:56
+msgid "Number Of Leave"
+msgstr ""
+
+#: wphrm-leave-type.php:80
+msgid "Edit LeaveTypes"
+msgstr ""
+
+#: wphrm-leave-type.php:104
+msgid "SelectTime Period"
+msgstr ""
+
+#: wphrm-leave-type.php:155 wphrm-leave-type.php:160
+#: wphrm-leaves-application.php:260
+msgid "Leave Types"
+msgstr ""
+
+#: wphrm-leave-type.php:168
+msgid "Add New Leave Type"
+msgstr ""
+
+#: wphrm-leave-type.php:172
+msgid "List of Leave Types"
+msgstr ""
+
+#: wphrm-leave-type.php:180
+msgid "No. of leave"
+msgstr ""
+
+#: wphrm-leaves-application.php:20 wphrm-leaves-application.php:131
+#: wphrm-settings.php:521
+msgid "Leave Application"
+msgstr ""
+
+#: wphrm-leaves-application.php:48 wphrm-mark-attendance.php:142
+#: wphrm-mark-attendance.php:180
+msgid "Select leave type"
+msgstr ""
+
+#: wphrm-leaves-application.php:72 wphrm-leaves-application.php:81
+msgid "Full"
+msgstr ""
+
+#: wphrm-leaves-application.php:72 wphrm-leaves-application.php:81
+msgid "Half"
+msgstr ""
+
+#: wphrm-leaves-application.php:87
+msgid "Holidays in between"
+msgstr ""
+
+#: wphrm-leaves-application.php:91
+msgid "Required Leaves"
+msgstr ""
+
+#: wphrm-leaves-application.php:95
+msgid "Earned Leaves"
+msgstr ""
+
+#: wphrm-leaves-application.php:99
+msgid "Paid Leaves"
+msgstr ""
+
+#: wphrm-leaves-application.php:104 wphrm-leaves-application.php:183
+#: wphrm-leaves-application.php:277 wphrm-leaves-application.php:411
+msgid "Reason"
+msgstr ""
+
+#: wphrm-leaves-application.php:113
+msgid "Apply Leave"
+msgstr ""
+
+#: wphrm-leaves-application.php:190
+msgid "Applied On"
+msgstr ""
+
+#: wphrm-leaves-application.php:197
+msgid "Application Status"
+msgstr ""
+
+#: wphrm-leaves-application.php:200 wphrm-leaves-application.php:347
+#: wphrm-leaves-application.php:468
+msgid "Approved"
+msgstr ""
+
+#: wphrm-leaves-application.php:201 wphrm-leaves-application.php:349
+#: wphrm-leaves-application.php:470
+msgid "Rejected"
+msgstr ""
+
+#: wphrm-leaves-application.php:207
+msgid "Comments"
+msgstr ""
+
+#: wphrm-leaves-application.php:246 wphrm-leaves-application.php:251
+#: wphrm.php:176 wphrm.php:179 wphrm.php:1132
+msgid "Leave Management"
+msgstr ""
+
+#: wphrm-leaves-application.php:262
+msgid "Create Leave Application"
+msgstr ""
+
+#: wphrm-leaves-application.php:266
+msgid "List of Leave Applications "
+msgstr ""
+
+#: wphrm-leaves-application.php:278 wphrm-leaves-application.php:412
+msgid "Comment"
+msgstr ""
+
+#: wphrm-leaves-application.php:279 wphrm-leaves-application.php:413
+msgid "Applied on"
+msgstr ""
+
+#: wphrm-leaves-application.php:346 wphrm-leaves-application.php:467
+msgid "Pending"
+msgstr ""
+
+#: wphrm-leaves-application.php:398 wphrm-leaves-application.php:512
+msgid "No leave applications data found in database."
+msgstr ""
+
+#: wphrm-mark-attendance.php:25
+msgid "Edit Mark Attendance"
+msgstr ""
+
+#: wphrm-mark-attendance.php:27
+msgid "Mark Attendance"
+msgstr ""
+
+#: wphrm-mark-attendance.php:38 wphrm-view-attendance.php:30
+#: wphrm-view-attendance.php:165
+msgid "Attendance"
+msgstr ""
+
+#: wphrm-mark-attendance.php:41
+msgid "Edit Attendance mark"
+msgstr ""
+
+#: wphrm-mark-attendance.php:43
+msgid "Attendance mark"
+msgstr ""
+
+#: wphrm-mark-attendance.php:56
+msgid "Edit Mark attendance of"
+msgstr ""
+
+#: wphrm-mark-attendance.php:58
+msgid "Mark attendance of"
+msgstr ""
+
+#: wphrm-mark-attendance.php:76
+msgid "Select Date"
+msgstr ""
+
+#: wphrm-mark-attendance.php:76
+msgid "Modify marked attendance"
+msgstr ""
+
+#: wphrm-mark-attendance.php:89
+msgid "Leave Type and Reason"
+msgstr ""
+
+#: wphrm-mark-attendance.php:121 wphrm-mark-attendance.php:124
+msgid "P"
+msgstr ""
+
+#: wphrm-mark-attendance.php:121 wphrm-mark-attendance.php:124
+msgid "A"
+msgstr ""
+
+#: wphrm-mark-attendance.php:133 wphrm-mark-attendance.php:171
+msgid "Full day leave"
+msgstr ""
+
+#: wphrm-mark-attendance.php:138 wphrm-mark-attendance.php:176
+msgid "Half day leave"
+msgstr ""
+
+#: wphrm-mark-attendance.php:165
+msgid "Absent Reason"
+msgstr ""
+
+#: wphrm-notice.php:41 wphrm-notice.php:45 wphrm.php:202 wphrm.php:205
+#: wphrm.php:1141
+msgid "Notices"
+msgstr ""
+
+#: wphrm-notice.php:52
+msgid "Add New Notice"
+msgstr ""
+
+#: wphrm-notice.php:58
+msgid "List of Notices"
+msgstr ""
+
+#: wphrm-notice.php:65
+msgid "Notice Title"
+msgstr ""
+
+#: wphrm-notice.php:98
+msgid "No notices found in the database."
+msgstr ""
+
+#: wphrm-notifications.php:37 wphrm-notifications.php:42 wphrm-settings.php:494
+msgid "Notifications"
+msgstr ""
+
+#: wphrm-notifications.php:50
+msgid "List of Notifications"
+msgstr ""
+
+#: wphrm-notifications.php:58
+msgid "Message Type"
+msgstr ""
+
+#: wphrm-notifications.php:120
+msgid "Unread"
+msgstr ""
+
+#: wphrm-notifications.php:122
+msgid "Read"
+msgstr ""
+
+#: wphrm-notifications.php:133
+msgid "No notifications found in the database."
+msgstr ""
+
+#: wphrm-reports.php:176 wphrm-reports.php:204 wphrm-reports.php:225
+#: wphrm-reports.php:248 wphrm-reports.php:779 wphrm-reports.php:807
+#: wphrm-reports.php:828 wphrm-reports.php:851 wphrm-settings.php:393
+msgid "Phone"
+msgstr ""
+
+#: wphrm-reports.php:268
+msgid "salary slip for the month  of"
+msgstr ""
+
+#: wphrm-reports.php:303 wphrm-reports.php:907
+msgid "Transferred to"
+msgstr ""
+
+#: wphrm-reports.php:318 wphrm-reports.php:922
+#: wphrm-salary-slip-details-week.php:160 wphrm-salary-slip-details.php:152
+msgid "Employee ID"
+msgstr ""
+
+#: wphrm-reports.php:327 wphrm-reports.php:931
+msgid "Total Hours Worked"
+msgstr ""
+
+#: wphrm-reports.php:335 wphrm-reports.php:939
+#: wphrm-salary-slip-details-week.php:189 wphrm-salary-slip-details.php:181
+#: wphrm-salary-slip-details.php:215
+msgid "Total  Working Days"
+msgstr ""
+
+#: wphrm-reports.php:342 wphrm-reports.php:946
+msgid "Leave Days"
+msgstr ""
+
+#: wphrm-reports.php:349 wphrm-reports.php:953
+#: wphrm-salary-slip-details-week.php:203 wphrm-salary-slip-details.php:195
+#: wphrm-salary-slip-details.php:229
+msgid "Total Days Worked"
+msgstr ""
+
+#: wphrm-reports.php:382 wphrm-reports.php:986 wphrm-reports.php:1723
+#: wphrm-salary-slip-details-week.php:231 wphrm-salary-slip-details.php:257
+#: wphrm-settings.php:1125
+msgid "Earnings"
+msgstr ""
+
+#: wphrm-reports.php:447 wphrm-reports.php:1051 wphrm-reports.php:1724
+#: wphrm-salary-slip-details-week.php:378 wphrm-salary-slip-details.php:412
+#: wphrm-settings.php:1179
+msgid "Deductions"
+msgstr ""
+
+#: wphrm-reports.php:509 wphrm-reports.php:1113
+msgid "Total Earnings"
+msgstr ""
+
+#: wphrm-reports.php:534 wphrm-reports.php:1138
+msgid "Total Deductions"
+msgstr ""
+
+#: wphrm-reports.php:564 wphrm-reports.php:1168
+msgid "Net Pay "
+msgstr ""
+
+#: wphrm-reports.php:573 wphrm-reports.php:1177
+#: wphrm-salary-slip-details-week.php:532
+#: wphrm-salary-slip-details-week.php:536 wphrm-salary-slip-details.php:566
+#: wphrm-salary-slip-details.php:570
+msgid "Information"
+msgstr ""
+
+#: wphrm-reports.php:596 wphrm-reports.php:600 wphrm-reports.php:616
+#: wphrm-reports.php:1200 wphrm-reports.php:1204 wphrm-reports.php:1220
+msgid "Generated on"
+msgstr ""
+
+#: wphrm-reports.php:872 wphrm-salary-slip-details-week.php:146
+msgid "Create Salary Slip "
+msgstr ""
+
+#: wphrm-reports.php:1290 wphrm-reports.php:1331
+msgid "Serial No"
+msgstr ""
+
+#: wphrm-reports.php:1291 wphrm-reports.php:1332 wphrm-reports.php:1426
+msgid "Item Name"
+msgstr ""
+
+#: wphrm-reports.php:1374
+msgid "Total CashIn"
+msgstr ""
+
+#: wphrm-reports.php:1380
+msgid "Total CashOut"
+msgstr ""
+
+#: wphrm-reports.php:1387 wphrm-reports.php:1606 wphrm-reports.php:1892
+#: wphrm-reports.php:2076
+msgid "Final Total"
+msgstr ""
+
+#: wphrm-reports.php:1422
+msgid "Profit and loss reports"
+msgstr ""
+
+#: wphrm-reports.php:1496
+msgid "Total Salary Report"
+msgstr ""
+
+#: wphrm-reports.php:1498
+msgid "From"
+msgstr ""
+
+#: wphrm-reports.php:1502
+msgid "To"
+msgstr ""
+
+#: wphrm-reports.php:1510 wphrm-reports.php:1729 wphrm-reports.php:1803
+#: wphrm-reports.php:1973 wphrm-select-financials-month.php:112
+#: wphrm-select-financials-week.php:114 wphrm-total-salary.php:106
+#: wphrm-view-attendance.php:110
+msgid "Month"
+msgstr ""
+
+#: wphrm-reports.php:1511 wphrm-reports.php:1804 wphrm-reports.php:1974
+#: wphrm-total-salary.php:107
+msgid "Earning"
+msgstr ""
+
+#: wphrm-reports.php:1512 wphrm-reports.php:1805 wphrm-reports.php:1975
+#: wphrm-total-salary.php:108
+msgid "Deduction"
+msgstr ""
+
+#: wphrm-reports.php:1513 wphrm-reports.php:1806 wphrm-reports.php:1976
+#: wphrm-reports.php:2053 wphrm-total-salary.php:109
+msgid "Total Paid"
+msgstr ""
+
+#: wphrm-reports.php:1709 wphrm-reports.php:1791 wphrm-reports.php:1923
+msgid "Salary Report"
+msgstr ""
+
+#: wphrm-reports.php:1711 wphrm-reports.php:1793 wphrm-reports.php:1925
+msgid "from"
+msgstr ""
+
+#: wphrm-reports.php:1715 wphrm.php:101
+msgid "to"
+msgstr ""
+
+#: wphrm-reports.php:1722
+msgid "Basic Info"
+msgstr ""
+
+#: wphrm-reports.php:1730
+msgid "Total Paid Salary"
+msgstr ""
+
+#: wphrm-reports.php:1768
+msgid "Total Pay"
+msgstr ""
+
+#: wphrm-reports.php:1797
+msgid " to "
+msgstr ""
+
+#: wphrm-reports.php:1929
+msgid "to "
+msgstr ""
+
+#: wphrm-reports.php:1962 wphrm-salary-slip-details-week.php:80
+#: wphrm-salary-slip-details-week.php:84 wphrm-salary-slip-details.php:78
+#: wphrm-salary-slip-details.php:82 wphrm-select-financials-month.php:142
+#: wphrm-select-financials-week.php:153
+msgid "Salary"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:12 wphrm-salary-slip-details.php:10
+msgid "Employee Other Details"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:129 wphrm-salary-slip-details.php:123
+msgid "Are you sure you want to delete this salary slip"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:180 wphrm-salary-slip-details.php:172
+msgid "Work Information"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:196 wphrm-salary-slip-details.php:188
+msgid "Total Leaves"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:350 wphrm-salary-slip-details.php:384
+msgid "Miscellaneous"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:364 wphrm-salary-slip-details.php:398
+msgid "Add More Earnings"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:477 wphrm-salary-slip-details.php:515
+msgid "Add More Deductions"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:489 wphrm-salary-slip-details.php:527
+msgid "Total Earnings : "
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:497 wphrm-salary-slip-details.php:535
+msgid "Total Deductions : "
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:509 wphrm-salary-slip-details.php:547
+msgid "Net Pay"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:534 wphrm-salary-slip-details.php:568
+msgid "Note"
+msgstr ""
+
+#: wphrm-salary-slip-details-week.php:543 wphrm-salary-slip-details.php:577
+msgid "Generate Salary Slip"
+msgstr ""
+
+#: wphrm-salary-slip-details.php:138
+msgid "Create Salary Slip of "
+msgstr ""
+
+#: wphrm-salary-slip-details.php:204
+msgid "Total Hours"
+msgstr ""
+
+#: wphrm-salary-slip-details.php:222
+msgid "Total Leave Days"
+msgstr ""
+
+#: wphrm-salary.php:47 wphrm-salary.php:127
+msgid "Generate Salary Report"
+msgstr ""
+
+#: wphrm-salary.php:105
+msgid "Generate Excel"
+msgstr ""
+
+#: wphrm-salary.php:116 wphrm-salary.php:120 wphrm.php:185 wphrm.php:188
+#: wphrm.php:193 wphrm.php:196 wphrm.php:1135
+msgid "Salary Management"
+msgstr ""
+
+#: wphrm-salary.php:137 wphrm-salary.php:251 wphrm-salary.php:255
+#: wphrm-total-salary.php:47 wphrm-total-salary.php:212
+msgid "Total Salary"
+msgstr ""
+
+#: wphrm-salary.php:149
+msgid "Phone No"
+msgstr ""
+
+#: wphrm-salary.php:151
+msgid "Pending Requests"
+msgstr ""
+
+#: wphrm-salary.php:269 wphrm-total-salary.php:191
+msgid "No salary data found in database."
+msgstr ""
+
+#: wphrm-select-financials-month.php:48 wphrm-select-financials-week.php:48
+msgid "Invalid Employee Request"
+msgstr ""
+
+#: wphrm-select-financials-month.php:84 wphrm-select-financials-week.php:84
+msgid "Do you want to duplicate the salary slip ?"
+msgstr ""
+
+#: wphrm-select-financials-month.php:86 wphrm-select-financials-week.php:86
+#: wphrm-settings.php:517 wphrm-settings.php:526
+msgid "Yes"
+msgstr ""
+
+#: wphrm-select-financials-month.php:115 wphrm-select-financials-week.php:117
+msgid "Select Month"
+msgstr ""
+
+#: wphrm-select-financials-month.php:123 wphrm-select-financials-week.php:134
+msgid "Duplicate"
+msgstr ""
+
+#: wphrm-select-financials-month.php:137 wphrm-select-financials-week.php:148
+msgid "Employee Salary"
+msgstr ""
+
+#: wphrm-select-financials-month.php:190 wphrm-select-financials-week.php:209
+msgid "Father's/Husband's Name"
+msgstr ""
+
+#: wphrm-select-financials-month.php:195 wphrm-select-financials-week.php:216
+msgid "Date of Joining"
+msgstr ""
+
+#: wphrm-select-financials-month.php:210 wphrm-select-financials-week.php:237
+msgid "Bank Account No"
+msgstr ""
+
+#: wphrm-select-financials-week.php:123 wphrm-settings.php:966
+msgid "Week"
+msgstr ""
+
+#: wphrm-select-financials-week.php:126
+msgid "Select Week"
+msgstr ""
+
+#: wphrm-settings.php:49
+msgid "Currency Settings"
+msgstr ""
+
+#: wphrm-settings.php:65
+msgid "ASCII Value of Currency Sign : "
+msgstr ""
+
+#: wphrm-settings.php:68
+msgid "Check Here"
+msgstr ""
+
+#: wphrm-settings.php:75 wphrm-settings.php:158
+msgid "Currency Name : USD"
+msgstr ""
+
+#: wphrm-settings.php:82 wphrm-settings.php:165
+msgid "Currency Description "
+msgstr ""
+
+#: wphrm-settings.php:93
+msgid "Edit Currency"
+msgstr ""
+
+#: wphrm-settings.php:112
+msgid "Edit Currency Settings"
+msgstr ""
+
+#: wphrm-settings.php:130
+msgid "Select Currency"
+msgstr ""
+
+#: wphrm-settings.php:151
+msgid "Currency Sign : "
+msgstr ""
+
+#: wphrm-settings.php:192 wphrm-settings.php:215
+msgid "Edit Earning"
+msgstr ""
+
+#: wphrm-settings.php:206
+msgid "Edit Earning Label"
+msgstr ""
+
+#: wphrm-settings.php:208
+msgid "Edit Earning Lebal"
+msgstr ""
+
+#: wphrm-settings.php:234 wphrm-settings.php:264
+msgid "Edit Message"
+msgstr ""
+
+#: wphrm-settings.php:250
+msgid "Messages title"
+msgstr ""
+
+#: wphrm-settings.php:257
+msgid "Messages Description"
+msgstr ""
+
+#: wphrm-settings.php:301 wphrm-settings.php:305 wphrm.php:226 wphrm.php:1149
+#: wphrm.php:6291
+msgid "Settings"
+msgstr ""
+
+#: wphrm-settings.php:311
+msgid "General Settings"
+msgstr ""
+
+#: wphrm-settings.php:312
+msgid "Employee Page Settings"
+msgstr ""
+
+#: wphrm-settings.php:313
+msgid "Salary Settings"
+msgstr ""
+
+#: wphrm-settings.php:314
+msgid "Import/Export Settings"
+msgstr ""
+
+#: wphrm-settings.php:316
+msgid "Permission Settings"
+msgstr ""
+
+#: wphrm-settings.php:318
+msgid "Message Settings"
+msgstr ""
+
+#: wphrm-settings.php:327
+msgid "Company Informations"
+msgstr ""
+
+#: wphrm-settings.php:343
+msgid "Company Logo"
+msgstr ""
+
+#: wphrm-settings.php:360
+msgid "Select Image"
+msgstr ""
+
+#: wphrm-settings.php:375
+msgid "Company Full Name"
+msgstr ""
+
+#: wphrm-settings.php:404
+msgid "Address"
+msgstr ""
+
+#: wphrm-settings.php:413
+msgid "Currency"
+msgstr ""
+
+#: wphrm-settings.php:439
+msgid "Add Custom Currency"
+msgstr ""
+
+#: wphrm-settings.php:451
+msgid "Change Password"
+msgstr ""
+
+#: wphrm-settings.php:470
+msgid "Current Password"
+msgstr ""
+
+#: wphrm-settings.php:476
+msgid "New Password"
+msgstr ""
+
+#: wphrm-settings.php:482
+msgid "Confirm Password"
+msgstr ""
+
+#: wphrm-settings.php:536
+msgid "Automatic Attendance"
+msgstr ""
+
+#: wphrm-settings.php:554
+msgid "Automatic Attendance Status"
+msgstr ""
+
+#: wphrm-settings.php:558 wphrm-settings.php:561 wphrm-settings.php:564
+msgid "Enable"
+msgstr ""
+
+#: wphrm-settings.php:558 wphrm-settings.php:561 wphrm-settings.php:564
+msgid "Disable"
+msgstr ""
+
+#: wphrm-settings.php:576
+msgid "Set Expense Report Amount"
+msgstr ""
+
+#: wphrm-settings.php:593
+msgid "Expense Amount"
+msgstr ""
+
+#: wphrm-settings.php:616
+msgid "Employee Information Sections"
+msgstr ""
+
+#: wphrm-settings.php:638 wphrm-settings.php:641 wphrm-settings.php:650
+#: wphrm-settings.php:653 wphrm-settings.php:664 wphrm-settings.php:667
+#: wphrm-settings.php:676 wphrm-settings.php:679
+msgid "Show"
+msgstr ""
+
+#: wphrm-settings.php:638 wphrm-settings.php:641 wphrm-settings.php:650
+#: wphrm-settings.php:653 wphrm-settings.php:664 wphrm-settings.php:667
+#: wphrm-settings.php:676 wphrm-settings.php:679
+msgid "Hide"
+msgstr ""
+
+#: wphrm-settings.php:697
+msgid "Add More Bank Details Fields"
+msgstr ""
+
+#: wphrm-settings.php:713
+msgid "Bank Fields"
+msgstr ""
+
+#: wphrm-settings.php:725 wphrm.php:99
+msgid "Bank Field Label"
+msgstr ""
+
+#: wphrm-settings.php:747
+msgid "Add More Salary Details Fields"
+msgstr ""
+
+#: wphrm-settings.php:761
+msgid "Salary Fields"
+msgstr ""
+
+#: wphrm-settings.php:801
+msgid "Add More Upload Documents"
+msgstr ""
+
+#: wphrm-settings.php:809
+msgid "Documents label Settings has been successfully updated."
+msgstr ""
+
+#: wphrm-settings.php:817
+msgid "Upload Employee Documents"
+msgstr ""
+
+#: wphrm-settings.php:820 wphrm-settings.php:825 wphrm-settings.php:830
+#: wphrm-settings.php:835 wphrm-settings.php:840 wphrm-settings.php:854
+#: wphrm.php:99
+msgid "Document Field Label"
+msgstr ""
+
+#: wphrm-settings.php:879
+msgid "Add More Other Details Fields"
+msgstr ""
+
+#: wphrm-settings.php:895
+msgid "Other Details Fields"
+msgstr ""
+
+#: wphrm-settings.php:907 wphrm.php:99
+msgid "Other Field Label"
+msgstr ""
+
+#: wphrm-settings.php:938
+msgid "Salary By Month/ Week/ Hours"
+msgstr ""
+
+#: wphrm-settings.php:955
+msgid "Based on"
+msgstr ""
+
+#: wphrm-settings.php:961
+msgid "Days"
+msgstr ""
+
+#: wphrm-settings.php:971
+msgid "Hours"
+msgstr ""
+
+#: wphrm-settings.php:981
+msgid "Salary Slip Layout"
+msgstr ""
+
+#: wphrm-settings.php:998
+msgid "Header Logo Align"
+msgstr ""
+
+#: wphrm-settings.php:1005 wphrm-settings.php:1034
+msgid "Left"
+msgstr ""
+
+#: wphrm-settings.php:1009
+msgid "Center"
+msgstr ""
+
+#: wphrm-settings.php:1013 wphrm-settings.php:1038
+msgid "Right"
+msgstr ""
+
+#: wphrm-settings.php:1018 wphrm-settings.php:1020
+msgid "Content"
+msgstr ""
+
+#: wphrm-settings.php:1027
+msgid "Footer Content Align"
+msgstr ""
+
+#: wphrm-settings.php:1044
+msgid "Border Color"
+msgstr ""
+
+#: wphrm-settings.php:1054
+msgid "H1 Background Color"
+msgstr ""
+
+#: wphrm-settings.php:1064
+msgid "Font Color"
+msgstr ""
+
+#: wphrm-settings.php:1073
+msgid "Currency Decimal"
+msgstr ""
+
+#: wphrm-settings.php:1094
+msgid "Reset"
+msgstr ""
+
+#: wphrm-settings.php:1109
+msgid "Salary Slip Fields"
+msgstr ""
+
+#: wphrm-settings.php:1142
+msgid "Earming Label"
+msgstr ""
+
+#: wphrm-settings.php:1146 wphrm-settings.php:1199
+#, php-format
+msgid "% of Current Salary"
+msgstr ""
+
+#: wphrm-settings.php:1238
+msgid "Salary Generation "
+msgstr ""
+
+#: wphrm-settings.php:1246
+msgid "Salary generation settings have been successfully updated. "
+msgstr ""
+
+#: wphrm-settings.php:1256
+msgid ""
+"In order to generate salary slips automatically, please enter <a href='?"
+"page=wphrm-employees' id='content'></a>current salary in their profile."
+msgstr ""
+
+#: wphrm-settings.php:1259
+msgid "Day of the month"
+msgstr ""
+
+#: wphrm-settings.php:1261
+msgid "0 to 31 days"
+msgstr ""
+
+#: wphrm-settings.php:1270
+msgid "Default Information on salary slips"
+msgstr ""
+
+#: wphrm-settings.php:1292
+msgid "Export Database"
+msgstr ""
+
+#: wphrm-settings.php:1305
+msgid "Export File"
+msgstr ""
+
+#: wphrm-settings.php:1307
+msgid "Export"
+msgstr ""
+
+#: wphrm-settings.php:1322
+msgid "Import Database"
+msgstr ""
+
+#: wphrm-settings.php:1357
+msgid "Import"
+msgstr ""
+
+#: wphrm-settings.php:1370
+msgid "Note : Current database will be replaced with imported database."
+msgstr ""
+
+#: wphrm-settings.php:1372
+msgid "I agree"
+msgstr ""
+
+#: wphrm-settings.php:1395
+msgid "Role Permissions"
+msgstr ""
+
+#: wphrm-settings.php:1413
+msgid "Role Action"
+msgstr ""
+
+#: wphrm-settings.php:1421
+msgid "Roles"
+msgstr ""
+
+#: wphrm-settings.php:1432
+msgid "Role Name"
+msgstr ""
+
+#: wphrm-settings.php:1455
+msgid "Messages"
+msgstr ""
+
+#: wphrm-settings.php:1463
+msgid "Message titles"
+msgstr ""
+
+#: wphrm-settings.php:1464
+msgid "Message Descriptions"
+msgstr ""
+
+#: wphrm-total-salary.php:54 wphrm-total-salary.php:66
+msgid " Total Salary"
+msgstr ""
+
+#: wphrm-total-salary.php:88
+msgid "Total Salary Paid"
+msgstr ""
+
+#: wphrm-view-attendance.php:34
+msgid "Attendance of"
+msgstr ""
+
+#: wphrm-view-attendance.php:71
+msgid "Search Attendance"
+msgstr ""
+
+#: wphrm-view-attendance.php:75 wphrm-view-attendance.php:76
+msgid "Select Employee"
+msgstr ""
+
+#: wphrm-view-attendance.php:154
+msgid "Total Working Days - "
+msgstr ""
+
+#: wphrm-view-attendance.php:155
+msgid "Total Present - "
+msgstr ""
+
+#: wphrm-view-attendance.php:156
+msgid "Total Absent - "
+msgstr ""
+
+#: wphrm-view-attendance.php:166
+msgid "NA"
+msgstr ""
+
+#: wphrm.php:98
+msgid "Records :"
+msgstr ""
+
+#: wphrm.php:98
+msgid "Are you sure you went to delete?"
+msgstr ""
+
+#: wphrm.php:99
+msgid "Please select a database xml file."
+msgstr ""
+
+#: wphrm.php:99
+msgid "Salary Field Label"
+msgstr ""
+
+#: wphrm.php:99
+msgid "Earning Label"
+msgstr ""
+
+#: wphrm.php:99
+msgid "Deduction Label"
+msgstr ""
+
+#: wphrm.php:100
+msgid "Search :"
+msgstr ""
+
+#: wphrm.php:100
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: wphrm.php:100
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: wphrm.php:100
+msgid "First"
+msgstr ""
+
+#: wphrm.php:100
+msgid "Last"
+msgstr ""
+
+#: wphrm.php:101
+msgid "Next :"
+msgstr ""
+
+#: wphrm.php:101
+msgid "Previous"
+msgstr ""
+
+#: wphrm.php:101
+msgid "No data available in table"
+msgstr ""
+
+#: wphrm.php:101
+msgid "Showing "
+msgstr ""
+
+#: wphrm.php:101
+msgid "of"
+msgstr ""
+
+#: wphrm.php:101
+msgid "entries"
+msgstr ""
+
+#: wphrm.php:101
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: wphrm.php:101
+msgid "total entries"
+msgstr ""
+
+#: wphrm.php:101
+msgid "filtered from"
+msgstr ""
+
+#: wphrm.php:101
+msgid "Loading..."
+msgstr ""
+
+#: wphrm.php:102
+msgid "Processing..."
+msgstr ""
+
+#: wphrm.php:102
+msgid "No matching records found"
+msgstr ""
+
+#: wphrm.php:104
+msgid "Today"
+msgstr ""
+
+#: wphrm.php:105
+msgid "MMMM YYYY"
+msgstr ""
+
+#: wphrm.php:105
+msgid "ddd"
+msgstr ""
+
+#: wphrm.php:107
+msgid "No entries found"
+msgstr ""
+
+#: wphrm.php:107
+msgid "Select all"
+msgstr ""
+
+#: wphrm.php:107
+msgid "Select none"
+msgstr ""
+
+#: wphrm.php:107
+msgid "times"
+msgstr ""
+
+#: wphrm.php:107
+msgid "Click here to search"
+msgstr ""
+
+#: wphrm.php:108
+msgid "Still loading data..."
+msgstr ""
+
+#: wphrm.php:108
+msgid "items selected"
+msgstr ""
+
+#: wphrm.php:108
+msgid "name attribute is required"
+msgstr ""
+
+#: wphrm.php:119
+msgid "Every Five Seconds"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: wphrm.php:135
+msgid "WP HRM"
+msgstr ""
+
+#: wphrm.php:214 wphrm.php:1146
+msgid "Notifications "
+msgstr ""
+
+#: wphrm.php:231 wphrm.php:1152
+msgid "FB Support Group"
+msgstr ""
+
+#: wphrm.php:233 wphrm.php:1154 wphrm.php:6287
+msgid "Documentation"
+msgstr ""
+
+#: wphrm.php:235 wphrm.php:1156
+msgid "Support Desk"
+msgstr ""
+
+#: wphrm.php:740
+msgid "Role has been successfully added."
+msgstr ""
+
+#: wphrm.php:742 wphrm.php:768 wphrm.php:1223 wphrm.php:1267 wphrm.php:2096
+msgid "Something went wrong"
+msgstr ""
+
+#: wphrm.php:766
+msgid "Role has been successfully updated."
+msgstr ""
+
+#: wphrm.php:2091
+msgid "File successfully imported."
+msgstr ""
+
+#: wphrm.php:2093 wphrm.php:2099
+msgid "File not supported."
+msgstr ""
+
+#: wphrm.php:2690 wphrm.php:2828 wphrm.php:2839 wphrm.php:2850 wphrm.php:2861
+#: wphrm.php:2872 wphrm.php:4746
+msgid "This is invalid file format."
+msgstr ""
+
+#: wphrm.php:2767
+msgid "This email id already exists."
+msgstr ""
+
+#: wphrm.php:2770
+msgid "Userid already taken"
+msgstr ""
+
+#: wphrm.php:2942
+msgid "Please select file."
+msgstr ""
+
+#: wphrm.php:3206 wphrm.php:3248
+msgid "Your salary slip generation request has been sent."
+msgstr ""
+
+#: wphrm.php:3291 wphrm.php:3313 wphrm.php:3338 wphrm.php:3364
+msgid "Designation Successfully Done"
+msgstr ""
+
+#: wphrm.php:3461
+msgid "Weekends have been successfully added."
+msgstr ""
+
+#: wphrm.php:3480
+msgid "Holiday already exists."
+msgstr ""
+
+#: wphrm.php:3920
+msgid "Attendance mark in bulk has been successfully added."
+msgstr ""
+
+#: wphrm.php:3923
+msgid " Something went wrong."
+msgstr ""
+
+#: wphrm.php:4189
+msgid "+ Earned:"
+msgstr ""
+
+#: wphrm.php:4190
+msgid "+ Earned Leaves:"
+msgstr ""
+
+#: wphrm.php:4192
+msgid " , Total = "
+msgstr ""
+
+#: wphrm.php:4196
+msgid " Paid:"
+msgstr ""
+
+#: wphrm.php:4649 wphrm.php:4678 wphrm.php:4794 wphrm.php:5060 wphrm.php:5131
+#: wphrm.php:5168 wphrm.php:5218 wphrm.php:5271 wphrm.php:5314 wphrm.php:5400
+#: wphrm.php:5634 wphrm.php:5856
+msgid "Something went wrong."
+msgstr ""
+
+#: wphrm.php:4943
+msgid "Your leave application has been "
+msgstr ""
+
+#: wphrm.php:5063
+msgid " Leave has already been applied for this date."
+msgstr ""
+
+#: wphrm.php:5114 wphrm.php:5447 wphrm.php:5464 wphrm.php:5491 wphrm.php:5516
+#: wphrm.php:5545 wphrm.php:5585 wphrm.php:5654
+msgid "Updated successfully.."
+msgstr ""
+
+#: wphrm.php:5128 wphrm.php:5631
+msgid "Registered successfully.."
+msgstr ""
+
+#: wphrm.php:5205
+msgid "Employee section settings have been successfully Updated."
+msgstr ""
+
+#: wphrm.php:5216
+msgid "Employee section settings have been successfully Added."
+msgstr ""
+
+#: wphrm.php:5320
+msgid "A new item has been added to the notice board."
+msgstr ""
+
+#: wphrm.php:5616
+msgid "Updated successfully."
+msgstr ""
+
+#: wphrm.php:5779
+msgid "Password does not match."
+msgstr ""
+
+#: wphrm.php:5817
+msgid "Account has been disabled."
+msgstr ""
+
+#: wphrm.php:5846 wphrm.php:5854
+msgid "Automatic attendance mark settings have been successfully updated."
+msgstr ""
+
+#: wphrm.php:6086 wphrm.php:6094 wphrm.php:6102 wphrm.php:6105 wphrm.php:6113
+msgid "None"
+msgstr ""
+
+#: wphrm.php:6088 wphrm.php:6096 wphrm.php:6106 wphrm.php:6108 wphrm.php:6109
+#: wphrm.php:6114
+msgid " day"
+msgstr ""
+
+#: wphrm.php:6090 wphrm.php:6098 wphrm.php:6117 wphrm.php:6118
+msgid " days"
+msgstr ""
+
+#: wphrm.php:6283
+msgid "Support"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://indigothemes.com/products/wp-hrm-wordpress-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WPHRM is a WordPress plugin for Human resource management of small and "
+"medium sized companies. Using WPHRM, companies can easily manage Employee "
+"data, Employees salary data, Notices, Holidays, Leaves, Expenses etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "IndigoThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://indigothemes.com"
+msgstr ""

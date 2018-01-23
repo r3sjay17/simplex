@@ -1,0 +1,466 @@
+/*{{{ Dashboard }}}*/
+.dashboard-stat {
+    &.compact {
+        .visual {
+            line-height: 15px;
+            height: auto;
+        }
+        .details {
+            .number {
+                padding-top: 8px;
+            }
+        }
+        .panel {
+            margin: 0 15px;
+        }
+    }
+}
+
+
+/*{{{ Calendar }}}*/
+.fc {
+    td.fc-day {
+        &.fc-sun,
+        &.fc-sat {
+            background-color: #efefef;
+        }
+    }
+}
+
+
+.portlet {
+    &.box {
+        &.purple-wisteria {
+            & > .portlet-title {
+                & > .actions {
+                    .btn-default {
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+/*datable*/
+.dataTables_wrapper {
+    .dt-buttons {
+        margin-left: 10px;
+    }
+    #wphrmDataTable_paginate {
+        //float: none !important;
+    }
+}
+
+/*Column Visibility*/
+.dt-button-collection {
+    background-color: #666;
+
+    .dt-button {
+        &.buttons-columnVisibility {
+            padding: 0 15px;
+            line-height: 25px;
+            margin-bottom: 5px;
+            background-color: #666;
+            color: #FFF;
+
+            &.active {
+                background-color: #3598dc;
+                color: #FFF;
+            }
+        }
+    }
+}
+
+/*File Manager*/
+#folder-file-container {
+    .file-container {
+        .file-element {
+            text-align: center;
+
+            .file-icon {
+                .fa {
+                    font-size: 30px;
+                }
+            }
+            .file-name {
+                font-weight: 400;
+            }
+        }
+        .action,
+        .status {
+            text-align: center;
+        }
+    }
+}
+
+
+#wp-admin-bar-jaf-port-home {
+    .ab-item {
+        .dashicons-before {
+            &::before {
+                top: 5px;
+                position: relative;
+            }
+        }
+    }
+}
+
+
+/* Dashboard Birthday Module */
+.overflowbirthday {
+    .birthday {
+        img {
+            width: 98%;
+        }
+    }
+}
+
+
+/*Employee dashboard*/
+.employee-dashboard-tab {
+    .tab-content {
+        .tab-pane {
+            background-color: #FFF;
+        }
+    }
+}
+
+
+/*Employee Dashboard*/
+.employee-dashboard-tab {
+
+    .bold {
+        font-weight: 700;
+    }
+
+    & > .panel {
+        & > .panel-body {
+            padding-top: 0;
+        }
+    }
+
+    .panel {
+        &.inner-panel {
+            .panel-heading {
+                background-color: #47bce2;
+                font-size: 18px;
+                color: #FFF;
+
+            }
+
+            table {
+                tr {
+                    td {
+                        border-top: 0;
+                        border-bottom: 1px solid #d8d8d8;
+                    }
+                }
+            }
+        }
+    }
+
+    .dashboard-title-bar {
+        margin: 0 -15px;
+        background-color: #0089C8;
+        margin-bottom: 15px;
+        border-bottom: 2px solid #066e9e;
+        padding: 0 15px;
+
+        h2 {
+            line-height: 3;
+            color: #FFF;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        ul.nav {
+            li {
+                margin-bottom: 0;
+                position: relative;
+
+                a {
+                    line-height: 2;
+                    font-weight: 700;
+                    color: #FFF;
+                }
+
+                &:hover,
+                &.active {
+                    background-color: transparent;
+
+                    &::before {
+                        content: '\f107';
+                        font-family: 'Fontawesome';
+                        position: absolute;
+                        right: 3px;
+                        top: 50%;
+                        line-height: 0;
+                        color: #FFF;
+                    }
+
+                    &::after {
+                        content: "";
+                        height: 2px;
+                        bottom: -2px;
+                        position: absolute;
+                        width: 100%;
+                        background-color: #FFF;
+                    }
+
+                    a {
+                        line-height: 2;
+                        color: #FFF;
+                        background-color: transparent;
+                    }
+                }
+
+
+            }
+        }
+
+    }
+
+    .profile-picture {
+        img {
+            width: 100%;
+        }
+    }
+
+    .employee-basic-info {
+        h4 {
+            text-align: center;
+            font-weight: 700;
+        }
+        .employee-designation {
+            text-align: center;
+        }
+        .employee-work-time {
+            text-align: center;
+            background-color: #f2f2f2;
+            padding: 10px 0;
+        }
+
+    }
+
+    .attendance-summary {
+        margin: 30px 0 15px;
+        background-color: #f2f2f2;
+        padding: 8px 0;
+    }
+
+    .current-upcoming-birthdays {
+        margin-top: 15px;
+
+        .heading {
+            margin-bottom: 15px;
+        }
+        .birthday-item {
+            margin-bottom: 15px;
+            border-bottom: 1px solid #d8d8d8;
+            padding-bottom: 10px;
+
+            &::before {
+                content: '..';
+                border-radius: 50%;
+                background-color: lightgray;
+                width: 50px;
+                height: 50px;
+                float: left;
+                text-align: center;
+                line-height: 3;
+                margin-right: 10px;
+            }
+
+            &::after {
+                content: '';
+                clear: both;
+                display: table;
+            }
+
+            .name {
+                line-height: 2;
+            }
+            .birthdate {
+
+            }
+        }
+    }
+
+    .notice-items {
+        max-height: 250px;
+        max-height: 300px;
+        overflow: auto;
+
+        .notice-item {
+            margin-bottom: 7px;
+            min-height: 70px;
+
+            .notice-date {
+                background-color: #e6c238;
+                color: #FFF;
+                padding: 0 8px;
+                margin-right: 15px;
+            }
+
+            &.is-invitation {
+                .notice-date {
+                    background-color: #e6a838;
+                }
+            }
+
+            .notice-title {
+                a {
+                    text-decoration: none;
+                }
+            }
+
+            .notice-day {
+                font-size: 24px;
+                text-align: center;
+                line-height: 2;
+                display: block;
+            }
+            .notice-month-year {
+                line-height: 1.5;
+            }
+            .notice-info {
+                margin-left: 90px;
+                margin-right: 0;
+            }
+        }
+    }
+
+
+    .holiday-items {
+        .holiday-item {
+            background-color: #fee0e0;
+            padding: 15px;
+
+            .title,
+            .day {
+                color: #F00;
+                font-weight: 600;
+            }
+            .date {
+                font-style: italic;
+                color: gray;
+            }
+            &.red {
+                background-color: #fee0e0;
+
+                .title,
+                .day {
+                    color: #F00;
+                }
+                .date {
+                    font-style: italic;
+                    color: gray;
+                }
+            }
+            &.green {
+                background-color: #e1febc;
+
+                .title,
+                .day {
+                    color: #0F0;
+                }
+                .date {
+                    font-style: italic;
+                    color: gray;
+                }
+            }
+            &.yellow {
+                background-color: #e1febc;
+
+                .title,
+                .day {
+                    color: #8a8a8a;
+                }
+                .date {
+                    font-style: italic;
+                    color: gray;
+                }
+            }
+        }
+    }
+
+    .last-absent {
+        .label {
+            font-weight: 700;
+            color: #000;
+        }
+        .day-ellapse {
+            font-weight: 400;
+            color: gray;
+        }
+    }
+
+}
+
+
+#wphrm_user_leave_applications_frm {
+    .leave-description {
+        border: 1px solid #e0e0e0;
+        border-radius: 3px;
+        background-color: #fff1f1;
+        padding: 5px;
+    }
+}
+
+.cal-legend {
+    display: inline-block;
+    width: 50px;
+    text-indent: -999em;
+
+    &.present {
+        background-color: rgb(31, 137, 127);
+    }
+    &.leave {
+        background-color: yellow;
+    }
+    &.absent {
+        background-color: red;
+    }
+}
+
+
+#wp-admin-bar-my-sites-list {
+    .blavatar {
+        display: none !important;
+    }
+    .ab-sub-wrapper {
+        ul {
+            li:nth-child(2) {
+                display: none;
+            }
+            li:nth-child(3) {
+                display: none;
+            }
+        }
+    }
+}
+
+.preloader {
+    display: none !important;
+}
+
+
+.label {
+    &.leave-status {
+        &.label-danger {
+            background-color: #F00;
+        }
+        &.label-warning {
+            background-color: #F00;
+        }
+        &.label-success {
+            background-color: #0095ff;
+        }
+    }
+}
+
+.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-success,
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-success {
+    background-color: #3598dc !important;
+}

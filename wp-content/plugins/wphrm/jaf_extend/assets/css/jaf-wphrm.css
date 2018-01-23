@@ -1,0 +1,277 @@
+/*{{{ Dashboard }}}*/
+.dashboard-stat.compact .visual {
+  line-height: 15px;
+  height: auto; }
+
+.dashboard-stat.compact .details .number {
+  padding-top: 8px; }
+
+.dashboard-stat.compact .panel {
+  margin: 0 15px; }
+
+/*{{{ Calendar }}}*/
+.fc td.fc-day.fc-sun, .fc td.fc-day.fc-sat {
+  background-color: #efefef; }
+
+/*datable*/
+.dataTables_wrapper .dt-buttons {
+  margin-left: 10px; }
+
+/*Column Visibility*/
+.dt-button-collection {
+  background-color: #666; }
+  .dt-button-collection .dt-button.buttons-columnVisibility {
+    padding: 0 15px;
+    line-height: 25px;
+    margin-bottom: 5px;
+    background-color: #666;
+    color: #FFF; }
+    .dt-button-collection .dt-button.buttons-columnVisibility.active {
+      background-color: #3598dc;
+      color: #FFF; }
+
+/*File Manager*/
+#folder-file-container .file-container .file-element {
+  text-align: center; }
+  #folder-file-container .file-container .file-element .file-icon .fa {
+    font-size: 30px; }
+  #folder-file-container .file-container .file-element .file-name {
+    font-weight: 400; }
+
+#folder-file-container .file-container .action,
+#folder-file-container .file-container .status {
+  text-align: center; }
+
+#wp-admin-bar-jaf-port-home .ab-item .dashicons-before::before {
+  top: 5px;
+  position: relative; }
+
+/* Dashboard Birthday Module */
+.overflowbirthday .birthday img {
+  width: 98%; }
+
+/*Employee dashboard*/
+.employee-dashboard-tab .tab-content .tab-pane {
+  background-color: #FFF; }
+
+/*Employee Dashboard*/
+.employee-dashboard-tab .bold {
+  font-weight: 700; }
+
+.employee-dashboard-tab > .panel > .panel-body {
+  padding-top: 0; }
+
+.employee-dashboard-tab .panel.inner-panel .panel-heading {
+  background-color: #47bce2;
+  font-size: 18px;
+  color: #FFF; }
+
+.employee-dashboard-tab .panel.inner-panel .table tr td {
+  border-top: 0;
+  border-bottom: 1px solid #d8d8d8; }
+
+.employee-dashboard-tab .fc-content-skeleton table tr td.fc-event-container {
+  padding: 3px;
+  border-top: 0;
+  border-bottom: 0 }
+
+.employee-dashboard-tab .fc-content-skeleton table tr td.fc-day-number {
+  border-top: 1px solid #d8d8d8;;
+  border-bottom: 0 }
+
+.employee-dashboard-tab .dashboard-title-bar {
+  margin: 0 -15px;
+  background-color: #0089C8;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #066e9e;
+  padding: 0 15px; }
+  .employee-dashboard-tab .dashboard-title-bar h2 {
+    line-height: 3;
+    color: #FFF;
+    text-transform: uppercase;
+    font-weight: 700; }
+  .employee-dashboard-tab .dashboard-title-bar ul.nav li {
+    margin-bottom: 0;
+    position: relative; }
+    .employee-dashboard-tab .dashboard-title-bar ul.nav li a {
+      line-height: 2;
+      font-weight: 700;
+      color: #FFF; }
+    .employee-dashboard-tab .dashboard-title-bar ul.nav li:hover, .employee-dashboard-tab .dashboard-title-bar ul.nav li.active {
+      background-color: transparent; }
+      .employee-dashboard-tab .dashboard-title-bar ul.nav li:hover::before, .employee-dashboard-tab .dashboard-title-bar ul.nav li.active::before {
+        content: '\f107';
+        font-family: 'Fontawesome';
+        position: absolute;
+        right: 3px;
+        top: 50%;
+        line-height: 0;
+        color: #FFF; }
+      .employee-dashboard-tab .dashboard-title-bar ul.nav li:hover::after, .employee-dashboard-tab .dashboard-title-bar ul.nav li.active::after {
+        content: "";
+        height: 2px;
+        bottom: -2px;
+        position: absolute;
+        width: 100%;
+        background-color: #FFF; }
+      .employee-dashboard-tab .dashboard-title-bar ul.nav li:hover a, .employee-dashboard-tab .dashboard-title-bar ul.nav li.active a {
+        line-height: 2;
+        color: #FFF;
+        background-color: transparent; }
+
+.employee-dashboard-tab .profile-picture img {
+  width: 100%; }
+
+.employee-dashboard-tab .employee-basic-info h4 {
+  text-align: center;
+  font-weight: 700; }
+
+.employee-dashboard-tab .employee-basic-info .employee-designation {
+  text-align: center; }
+
+.employee-dashboard-tab .employee-basic-info .employee-work-time {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 10px 0; }
+
+.employee-dashboard-tab .attendance-summary {
+  margin: 30px 0 15px;
+  background-color: #f2f2f2;
+  padding: 8px 0; }
+
+.employee-dashboard-tab .current-upcoming-birthdays {
+  margin-top: 15px; }
+  .employee-dashboard-tab .current-upcoming-birthdays .heading {
+    margin-bottom: 15px; }
+  .employee-dashboard-tab .current-upcoming-birthdays .birthday-item {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #d8d8d8;
+    padding-bottom: 10px; }
+    .employee-dashboard-tab .current-upcoming-birthdays .birthday-item::before {
+      content: '..';
+      border-radius: 50%;
+      background-color: lightgray;
+      width: 50px;
+      height: 50px;
+      float: left;
+      text-align: center;
+      line-height: 3;
+      margin-right: 10px; }
+    .employee-dashboard-tab .current-upcoming-birthdays .birthday-item::after {
+      content: '';
+      clear: both;
+      display: table; }
+    .employee-dashboard-tab .current-upcoming-birthdays .birthday-item .name {
+      line-height: 2; }
+
+.employee-dashboard-tab .notice-items {
+  max-height: 250px;
+  max-height: 300px;
+  overflow: auto; }
+  .employee-dashboard-tab .notice-items .notice-item {
+    margin-bottom: 7px;
+    min-height: 70px; }
+    .employee-dashboard-tab .notice-items .notice-item .notice-date {
+      background-color: #e6c238;
+      color: #FFF;
+      padding: 0 8px;
+      margin-right: 15px; }
+    .employee-dashboard-tab .notice-items .notice-item.is-invitation .notice-date {
+      background-color: #e6a838; }
+    .employee-dashboard-tab .notice-items .notice-item .notice-title a {
+      text-decoration: none; }
+    .employee-dashboard-tab .notice-items .notice-item .notice-day {
+      font-size: 24px;
+      text-align: center;
+      line-height: 2;
+      display: block; }
+    .employee-dashboard-tab .notice-items .notice-item .notice-month-year {
+      line-height: 1.5; }
+    .employee-dashboard-tab .notice-items .notice-item .notice-info {
+      margin-left: 90px;
+      margin-right: 0; }
+
+.employee-dashboard-tab .holiday-items .holiday-item {
+  background-color: #fee0e0;
+  padding: 15px; }
+  .employee-dashboard-tab .holiday-items .holiday-item .title,
+  .employee-dashboard-tab .holiday-items .holiday-item .day {
+    color: #F00;
+    font-weight: 600; }
+  .employee-dashboard-tab .holiday-items .holiday-item .date {
+    font-style: italic;
+    color: gray; }
+  .employee-dashboard-tab .holiday-items .holiday-item.red {
+    background-color: #fee0e0; }
+    .employee-dashboard-tab .holiday-items .holiday-item.red .title,
+    .employee-dashboard-tab .holiday-items .holiday-item.red .day {
+      color: #F00; }
+    .employee-dashboard-tab .holiday-items .holiday-item.red .date {
+      font-style: italic;
+      color: gray; }
+  .employee-dashboard-tab .holiday-items .holiday-item.green {
+    background-color: #e1febc; }
+    .employee-dashboard-tab .holiday-items .holiday-item.green .title,
+    .employee-dashboard-tab .holiday-items .holiday-item.green .day {
+      color: #0F0; }
+    .employee-dashboard-tab .holiday-items .holiday-item.green .date {
+      font-style: italic;
+      color: gray; }
+  .employee-dashboard-tab .holiday-items .holiday-item.yellow {
+    background-color: #e1febc; }
+    .employee-dashboard-tab .holiday-items .holiday-item.yellow .title,
+    .employee-dashboard-tab .holiday-items .holiday-item.yellow .day {
+      color: #8a8a8a; }
+    .employee-dashboard-tab .holiday-items .holiday-item.yellow .date {
+      font-style: italic;
+      color: gray; }
+
+.employee-dashboard-tab .last-absent .label {
+  font-weight: 700;
+  color: #000; }
+
+.employee-dashboard-tab .last-absent .day-ellapse {
+  font-weight: 400;
+  color: gray; }
+
+#wphrm_user_leave_applications_frm .leave-description {
+  border: 1px solid #e0e0e0;
+  border-radius: 3px;
+  background-color: #fff1f1;
+  padding: 5px; }
+
+.cal-legend {
+  display: inline-block;
+  width: 50px;
+  text-indent: -999em; }
+  .cal-legend.present {
+    background-color: #1f897f; }
+  .cal-legend.leave {
+    background-color: yellow; }
+  .cal-legend.absent {
+    background-color: red; }
+
+#wp-admin-bar-my-sites-list .blavatar {
+  display: none !important; }
+
+#wp-admin-bar-my-sites-list .ab-sub-wrapper ul li:nth-child(2) {
+  display: none; }
+
+#wp-admin-bar-my-sites-list .ab-sub-wrapper ul li:nth-child(3) {
+  display: none; }
+
+.preloader {
+  display: none !important; }
+
+.label.leave-status.label-danger {
+  background-color: #F00; }
+
+.label.leave-status.label-warning {
+  background-color: #F00; }
+
+.label.leave-status.label-success {
+  background-color: #0095ff; }
+
+.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-success,
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-success {
+  background-color: #3598dc !important; }

@@ -1,0 +1,242 @@
+#adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, 
+#adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top,
+#adminmenu .wp-submenu-head:hover, #adminmenu a.menu-top:hover, #adminmenu li.menu-top:hover, #adminmenu a.menu-top:focus, #adminmenu li.menu-top:focus,
+#adminmenu a:hover, #adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus {
+    background: #0471a2 !important;
+}
+#adminmenu, #adminmenuback, #adminmenuwrap, #wpadminbar {
+    background: #0089C8;
+}
+#adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu .wp-submenu, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu, .folded #adminmenu .wp-has-current-submenu .wp-submenu,
+#adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu .wp-submenu, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu, .folded #adminmenu .wp-has-current-submenu .wp-submenu {
+    /*background: #055377;*/
+    background: #44494f !important;
+}
+#adminmenu .wp-has-current-submenu .wp-submenu a:focus, #adminmenu .wp-has-current-submenu .wp-submenu a:hover, #adminmenu .wp-has-current-submenu.opensub .wp-submenu a:focus, #adminmenu .wp-has-current-submenu.opensub .wp-submenu a:hover, #adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu a:focus, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu a:hover, .folded #adminmenu .wp-has-current-submenu .wp-submenu a:focus, .folded #adminmenu .wp-has-current-submenu .wp-submenu a:hover,
+#wpadminbar .ab-top-menu>li.menupop.hover>.ab-item, #wpadminbar.nojq .quicklinks .ab-top-menu>li>.ab-item:focus, #wpadminbar.nojs .ab-top-menu>li.menupop:hover>.ab-item, #wpadminbar:not(.mobile) .ab-top-menu>li:hover>.ab-item, #wpadminbar:not(.mobile) .ab-top-menu>li>.ab-item:focus,
+#collapse-button:focus, #collapse-button:hover,
+#adminmenu .wp-has-current-submenu.opensub .wp-submenu li.current a:focus, #adminmenu .wp-has-current-submenu.opensub .wp-submenu li.current a:hover, #adminmenu .wp-submenu li.current a:focus, #adminmenu .wp-submenu li.current a:hover, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu li.current a:focus, #adminmenu a.wp-has-current-submenu:focus+.wp-submenu li.current a:hover {
+    color: #fff;
+    background: #fd9133 !important;
+    /*background: #0471a2 !important;*/
+}
+#adminmenuwrap #adminmenu .rty-logo-holder {
+    padding: 10px;
+}
+#adminmenuwrap #adminmenu .rty-logo-holder .img-holder {
+    text-align: center;
+    background: #fff;
+    padding: 10px;
+}
+.portlet.light > .portlet-title > .caption > .caption-subject {
+    font-size: 23px !important;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300 !important;
+    color: #23282d !important;
+}
+body h1, body h2, body h3, body h4, body h5, body h6, body p, body span {
+    font-family: "Open Sans", sans-serif;
+}
+#employee-dashboard-tab .panel-body .col-md-4 .inner-panel.panel-holidays {
+    max-height: 100%;
+}
+#employee-dashboard-tab .panel-body .col-md-4 .inner-panel.panel-holidays .panel-body {
+    background-color: #fff;
+}
+#employee-dashboard-tab .panel-body .col-md-4 .inner-panel .panel-body {
+    background-color: #d9edf7;
+}
+/*#employee-dashboard-tab .panel-body .col-md-5 .inner-panel,
+#employee-dashboard-tab .panel-body .col-md-4 .inner-panel {
+    max-height: 342px;
+    overflow: hidden;
+}*/
+.employee-dashboard-tab .panel.inner-panel table tr td {
+    padding: 9px;
+}
+.employee-dashboard-tab .holiday-items .holiday-item {
+    background: none !important;
+    border: 1px solid #d8d8d8;
+}
+.employee-dashboard-tab .holiday-items .holiday-item .day, 
+.employee-dashboard-tab .holiday-items .holiday-item .title,
+.employee-dashboard-tab .holiday-items .holiday-item .date,
+.employee-dashboard-tab .notice-items .notice-item .notice-title a {
+    color: #333 !important;
+}
+.employee-dashboard-tab .current-upcoming-birthdays .birthday-item img {
+    display: inline-block;
+    margin: 0 10px;
+    float: left;
+}
+.employee-dashboard-tab .current-upcoming-birthdays .birthday-item:before {
+    display: none;
+}
+.nav-tabs>li>a {
+    color: #fff !important;
+    background-color: #45B6AF !important;
+    border: 1px solid #45B6AF !important;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #fff !important;
+    background-color: #fd9133 !important;
+    border: 1px solid #fd9133 !important;
+}
+#collapse-menu {
+    display: none;
+}
+#adminmenuwrap #adminmenu {
+    margin-top: 0;
+}
+#adminmenuwrap #adminmenu .rty-logo-holder {
+    padding-top: 0;
+}
+#leave_management #wphrmDataTablex tbody tr td span.leave-status {
+    width: 80px;
+    padding: 5px 0 !important;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+#leave_management #wphrmDataTablex tbody tr td span.leave-status.label-warning {
+    background-color: #0095ff;
+}
+#leave_management #wphrmDataTablex tbody tr td span.leave-status.label-success {
+    background-color: #1f897f;
+}
+#attendance_management table.leaves {
+    margin-left: 0 !important;
+}
+#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-first-item .wp-menu-name {
+    padding: 8px;
+}
+#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-first-item .wp-menu-image {
+    display: none;
+}
+.simplex-portal_page_wphrm-dashboard .caption .caption-subject {
+    color: #fff !important;
+}
+.simplex-portal_page_wphrm-dashboard .notice-board .portlet-body,
+.simplex-portal_page_wphrm-dashboard .birthday-board .portlet-body {
+    background-color: #d9edf7 !important;
+}
+
+#wphrm_add_leaverule_form .bootstrap-switch-wrapper .bootstrap-switch-label,
+#wphrm_edit_leaverule_form .bootstrap-switch-wrapper .bootstrap-switch-label {
+    width: 40px !important;
+}
+#wphrm_add_leaverule_form input[type="text"],
+#wphrm_add_leaverule_form input[type="number"] {
+    height: 34px;
+}
+#wphrm_add_leavetype_form #leave_rules,
+#wphrm_edit_leavetype_form #edit_leave_rules {
+    text-transform: capitalize;
+}
+.leave-entitlement-holder .icheckbox_flat-red,
+.leave-entitlement-holder .control-label {
+    pointer-events: none;
+}
+.department-table table.wphrmtable thead tr th:first-child:after,
+.department-table table.wphrmtable thead tr th:nth-child(2):after,
+.designation-table table thead tr th:first-child:after,
+.designation-table table thead tr th:nth-child(2):after {
+    display: none;
+}
+.department-table table.wphrmtable thead tr th:nth-child(2),
+.designation-table table thead tr th:nth-child(2) {
+    pointer-events: none;
+}
+#wpfooter #footer-thankyou {
+    display: none;
+}
+.btn-delete-selected-designation,
+.btn-edit-designation {
+    margin-bottom: 10px !important;
+}
+.datepicker {
+    z-index: 99999 !important;
+}
+
+.maternity-options-holder .options-label {
+    text-align: left !important;
+}
+.maternity-options-holder .maternity-options {
+    margin: 0 0 15px;
+    border-top: 1px solid;
+    border-right: 1px solid;
+}
+.maternity-options-holder .maternity-options tr td:first-child {
+    text-align: center;
+}
+.maternity-options-holder .maternity-options tr th {
+    background-color: #e0e0e0;
+}
+.maternity-options-holder .maternity-options tr th,
+.maternity-options-holder .maternity-options tr td {
+    padding: 5px;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+}
+input[type="radio"] {
+    border-radius: 50% !important;
+    border: 4px solid #e1e1e1;
+    width: 20px;
+    height: 20px;
+}
+input[type="radio"]:checked {
+    border-color: #e14d43;
+}
+input[type="radio"]:checked:before {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    border: 2px solid #fff;
+}
+
+/* ICONS */
+
+/*#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-submenu li:hover:before {
+    color: #fff !important;
+}
+#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-submenu li:nth-child(2):before {
+    content: '\f0e4';
+    font-family: FontAwesome;
+    float: left;
+    margin: 5px;
+    color: #c3c4c5;
+}
+#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-submenu li:nth-child(3):before {
+    content: '\f06a';
+    font-family: FontAwesome;
+    float: left;
+    margin: 5px;
+    color: #c3c4c5;
+}
+#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-submenu li:nth-child(4):before {
+    content: '\f1ad';
+    font-family: FontAwesome;
+    float: left;
+    margin: 5px;
+    color: #c3c4c5;
+}
+#adminmenuwrap #adminmenu #toplevel_page_wphrm .wp-submenu li:nth-child(5):before {
+    content: '\f0c0';
+    font-family: FontAwesome;
+    float: left;
+    margin: 5px;
+    color: #c3c4c5;
+}*/
+
+.employee-dashboard-tab .tab-content .tab-pane .notice-panel .panel-body {
+    height: 420px;
+    overflow: auto;
+}
+.employee-dashboard-tab .tab-content .tab-pane .birthday-panel .panel-body {
+    height: 430px;
+    overflow: auto;
+}
+.employee-dashboard-tab .tab-content .tab-pane .leave-balance-panel .panel-body .alert {
+    height: 383px;
+    overflow: auto;
+}

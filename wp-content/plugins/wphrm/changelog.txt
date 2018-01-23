@@ -1,0 +1,98 @@
+Version 1.0.0
+1) Initial Version
+
+Version 1.0.1
+1) Fixed some issues with CSS.
+
+Version 1.0.2
+1) Performance Enhancements.
+
+Version 1.0.3
+1) Fixed issues with PDF download.
+
+Version 1.0.4
+1) Fixed script & style sheet calling issues
+
+Version 1.0.5 (1st Aug 2016)
+1) Fixed loading issues and some text fixes.
+
+Version 1.0.6 (1st Aug 2016)
+1) Fixed Edit Attendance Issue
+
+Version 1.0.7 (1st Aug 2016)
+1) Fixed notification bug on close.
+2) Inactive users will be displayed.
+
+Version 1.0.8 (3rd Aug 2016)
+1) In Settings, added worked by hourly or day wise options.
+
+Version 1.0.9 (9th Aug 2016)
+1)  Sanitization fixes.
+
+Version 1.0.10 (9th Aug 2016)
+1)  Fatal Error on certain servers during activation.
+
+Version 1.0.11 (10th Aug 2016)
+1) Removed unused files and cleaned the code.
+
+Version 1.0.12 (11th Aug 2016)
+1) Session starting issues are fixed.
+
+Version 1.0.13 (17th Aug 2016)
+1) Added half day leave option.
+2) Added option to hide any Employee section in Settings area.
+3) Added option to apply for bulk leave using To and From dates.
+4) Other tweaks for better user experience and performance.
+
+Version 1.0.14 (26th Aug 2016)
+1) Leave applications counter fixed on dashboard.
+2) Dashboard graph bar issue fixed.
+
+Version 1.0.15 (31st Aug 2016)
+1) Added IDR (Indonesian Rupiah) as currency.
+
+Version 1.0.16 (8th Sep 2016)
+1) Adding an option in settings to add and edit a currency.
+2) Decimal value option for salary slip.
+3) Same day half day leave can be applied.
+4) Applied leave can be cancelled before it’s approved.
+
+Version 1.0.17 (22 Sep 2016)
+1) Mark Attendance in bulk option enabled.
+2) Merged leave type and leave reason column on the Mark Attendance page
+3) Alignment changes of currency edit button on the settings page
+4) Half day leave calculation issue fixed.
+
+Version 1.0.18 (26 Sep 2016)
+1) Half day leave counter issue fixed.
+2) Last absent field issue fixed.
+
+Version 1.0.19 (17 Oct 2016)
+1) Add new function in salary management for total salary generate excel and pdf format.
+2) Select all button disappeared issue fixed.
+
+Version 1.0.20 (11 Nov 2016)
+1) New function added to Import and Export database from one site to another.
+2) All wp user can be added to WP HRM
+
+Version 1.0.21 (14 Nov 2016)
+1) Featured images issue fixed.
+
+Version 1.1 (07 Jan 2017)
+1) Salary components for salary slip will now be calculated based on Current Salary Field. Salary Slip elements in settings area will be calculated from %age of current Salary. 
+1) Automatically generate salary slips on 1st of every month. Date can be changed from Settings area.
+2) Automatically mark attendance for today and previous days. By default, All employees will be present except the ones who have asked for leave on that day.
+3) While applying leaves, employees will now be able to check how many Holidays are falling in between those leaves, how many Earned Leaves they will utilize in this and how many paid leaves (leaves for which salary will be deducted) will be required.\
+4) Unlimited documents can now be uploaded for each and every employee. Earlier it was max. 5 documents.
+5) Changes for user experience enhancements.
+
+Version 1.2 (24 Jan 2017)
+1) salary create button issue fixed.
+
+Version 1.3 (2nd feb 2017)
+1) Added new options to add roles and assign permissions for various sections of the application.
+2) Option to add "Automatic attendance marking" enable/disable.
+3) Email sent on applying and approval of leave.
+
+Version 1.4 (8th feb 2017)
+1) Generate weekly employee salary.
